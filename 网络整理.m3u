@@ -1421,4 +1421,277 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
 #EXTINF:-1 tvg-chno="150" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
-
+#EXTINF:-1 tvg-id="stream-1cd6c369-03a1-41a4-9b24-ba9da140f924" tvg-name="NOW Sports 616 4K (Not 24/7)" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="FIFA World Cup 2026",NOW Sports 616 4K (Not 24/7)
+https://iptv.852851.xyz/l/IAvQVz6dJnts9TVpjoC2wGOcQZL4ee-Ge_uXvIJPkLNUGynLmesPQZ0ElpqC-Hwx/index.m3u8
+#EXTINF:-1 tvg-id="stream-3b7b1abd-df41-4b99-9692-d9579265dfc9" tvg-name="FOX 4K (Not 24/7) 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K (Not 24/7) 01
+https://iptv.852851.xyz/l/koXNPPOkSAP280DoSkHc7gKWGN28ZYHf2lhog4_QiVkbv9O7NmoncPHN15fdVS9h/index.m3u8
+#EXTINF:-1 tvg-id="stream-2cec1f3b-b4d3-4c0b-aea5-75555b799e31" tvg-name="FOX 4K (Not 24/7) 02" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K (Not 24/7) 02
+https://iptv.852851.xyz/l/PlyhAXOk3zN22oV9lx2v0zpRou8OP6Jp2olE1peCmo34O0ugRNNY-3J7s8mXl4Rs/index.m3u8
+#EXTINF:-1 tvg-id="stream-574ef217-b7e9-4ff1-b5a8-a3e62e84480d" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX
+https://iptv.852851.xyz/l/oaaZKB7dsyK6UqqLFxTTuLw_mHfbVDTTKhs1-WUQXQZ7u7hvi1ZPSwFItlxZFen2/index.m3u8
+#EXTINF:-1 tvg-id="stream-91f39c20-64cf-4ad7-8cca-b65c9bfdd6a3" tvg-name="广东体育" group-title="FIFA World Cup 2026",广东体育
+https://iptv.852851.xyz/l/YRMmYZIR8A2dZM-H5OSS-minjzenQezNsPHhLJK_JHILx2z8f7uFtxvmK870IRU8/index.m3u8
+#EXTINF:-1 tvg-id="stream-19f686c0-2a40-4f04-88aa-1c284b154b9e" tvg-name="FS1 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 4K (Not 24/7)
+https://iptv.852851.xyz/l/jNKeHVp7PFmnoC7ZwHiK1JZZxG0bH-fTwecU4-iFoQG6JZC6gAphQuJpFk_VDEw6/index.m3u8
+#EXTINF:-1 tvg-id="stream-6b3a167d-da3b-490c-a6f9-8a3c32a62a8b" tvg-name="TSN 4K CA 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA 01
+https://iptv.852851.xyz/l/obuWFp7gWslSiRRWxkgi4DB2ou0wTlmVQFbuZGR0ZR6idfBk3eE0uVwU2aWUl5Jg/index.m3u8
+#EXTINF:-1 tvg-id="stream-ab79832c-6b10-40dd-96b1-84110a3a7213" tvg-name="TSN 4K CA 02" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA 02
+https://iptv.852851.xyz/l/B73KuPHJ9sUxkTXD6LcXrwJML0r8bQYAj7jct9sYyUHpaajkIENMXM6RPFIZHQXr/index.m3u8
+#EXTINF:-1 tvg-id="stream-27f43da9-b887-4f64-9583-3a01d850dd01" tvg-name="Telemundo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="FIFA World Cup 2026",Telemundo
+https://iptv.852851.xyz/l/uu0gZ6HsGIbUmN56rAAhKachYKZYswY1tjni81YijPd_LAXUbqC7SR4Iy_Hujp9M/index.m3u8
+#EXTINF:-1 tvg-id="stream-7c759c01-d052-4281-95c3-c25653536b85" tvg-name="Universo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-universo-us.png?raw=true" group-title="FIFA World Cup 2026",Universo
+https://iptv.852851.xyz/l/5NOtK0AphSwm91NEvNFUx3jZ7QkBBAqF2CRHjy9vPCUob5DI-XEAoUwTlQs5sbkY/index.m3u8
+#EXTINF:-1 tvg-id="stream-93512679-2f5a-422f-9a0a-07e5902657b8" tvg-name="M6 4K FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="FIFA World Cup 2026",M6 4K FR
+https://iptv.852851.xyz/l/Z1xzHl3-L2hRl9DdpG7t5jtPHmaq90XGC63EFCnGuKv8-6_6kcEPRH1dAzAV-5-R/index.m3u8
+#EXTINF:-1 tvg-id="stream-9b4a279f-2041-4c25-a91d-282b9d8f0d30" tvg-name="Fussball.TV 1 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 1 4K DE
+https://iptv.852851.xyz/l/0qJ4l1uy9a7KXg3s7KsNyj_jRm11EWH4xwjZWvmaZEsLISSUGE-leDvPHFns4Z5H/index.m3u8
+#EXTINF:-1 tvg-id="stream-2cd52741-8d05-4f98-8366-e1a5001bd57d" tvg-name="Now Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="FIFA World Cup 2026",Now Sports 618
+https://iptv.852851.xyz/l/ODeEDJ6dAS-h9wM8brMhQAI1RnlmkGTfHMrFIuB079IMmEv5TX00WGKQxtR7G-ey/index.m3u8
+#EXTINF:-1 tvg-id="stream-18a4bbaf-3fdb-42be-a973-0daec5213f8b" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="FIFA World Cup 2026",NOW Sports 619
+https://iptv.852851.xyz/l/E4QX-J4gZcsw7atAipxHT9F8JHsYgMisr7oHNqdLlYnSYk3AGkk58Wf_OUwA3CuO/index.m3u8
+#EXTINF:-1 tvg-id="stream-a70521fa-ef37-4b8f-ba30-4a0113468d64" tvg-name="NHK BSP8K JP" group-title="FIFA World Cup 2026",NHK BSP8K JP
+https://iptv.852851.xyz/l/_J_D44-kAbRbnViTL5Gx0WxtnToY8UbQiuIXLXeAht8IUzUAUouReryoUOxXmAnZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-5a220f7b-a3eb-4c1e-8797-e9369faa76e7" tvg-name="beIN SPORTS MAX 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 6
+https://iptv.852851.xyz/l/BlLeAVU5-qxYYkmOrqWw71TmHBmYl1tPjZQ7KMENroXI-wGLS9t_3Vv9J2zfJDvK/index.m3u8
+#EXTINF:-1 tvg-id="stream-e67f5161-ba96-4647-8a39-4dd42e19e2cb" tvg-name="Fussball.TV 2 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 2 4K DE
+https://iptv.852851.xyz/l/UNhEb7h7shbU0scN752FiYByrBiGnACkT-1rf2o0v5Y9OHOYacxOf9tGIob_hYAi/index.m3u8
+#EXTINF:-1 tvg-id="stream-a3d93a47-87aa-45c2-8e64-dd8bcaef6fec" tvg-name="FUSSBALL.TV 1 UHD" group-title="🌈 4K UHD",FUSSBALL.TV 1 UHD
+https://iptv.852851.xyz/l/DE3kVbAz1_6Wy0074gKRy2T9B9GDVh8fCF-u2d6PfCjFOObn6ORpLhzB0DZ6C_RD/index.m3u8
+#EXTINF:-1 tvg-id="stream-8430824f-4ec0-44c9-ab7c-58e10c61a4b8" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="🌈 4K UHD",TSN 4K CA
+https://iptv.852851.xyz/l/uBvsjzQoZeUWeXveulRjkZ1egJUfLW4lenf0FuM6og6f2GlV2s6C9TrlUkdOnR54/index.m3u8
+#EXTINF:-1 tvg-id="stream-210aca4f-52e3-4310-b331-366b27665100" tvg-name="TNT Sports Ultimate 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true" group-title="🌈 4K UHD",TNT Sports Ultimate 4K UK
+https://iptv.852851.xyz/l/4pPbjWgonXEZlPWlNqXzUdTymNuF5mG--fsHDUq8aR5NjE7VwLv0TNFt0nZGikDw/index.m3u8
+#EXTINF:-1 tvg-id="stream-f0b0756f-1ce4-4c6d-98f3-7f88279497ae" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="🌈 4K UHD",Sky Sports Main Event 4K UK
+https://iptv.852851.xyz/l/VP36WJxCDANk5zeqdlHFsaxBUj8NjJx_nvsS_T_IjTasSYtJdjZQuz_bQwPUS7M5/index.m3u8
+#EXTINF:-1 tvg-id="stream-e6c1a1ef-9d68-4a55-bf5e-fcaf55bbff3b" tvg-name="Stingray NOW 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/stingray-now-4k-ca.png?raw=true" group-title="🌈 4K UHD",Stingray NOW 4K CA
+https://iptv.852851.xyz/l/ObvRBzilGFu4pxrSe4CF8khSqYE97bfLLEb8jXXsoRPKXOyHe2b_IFbH9kcMCk1T/index.m3u8
+#EXTINF:-1 tvg-id="stream-4095f821-0971-4dcb-af0e-5a82f566a459" tvg-name="Stingray Festival 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/stingray-festival-4k-es.png?raw=true" group-title="🌈 4K UHD",Stingray Festival 4K CA
+https://iptv.852851.xyz/l/2P0_3fIfRM-T6zJ1AqlcG-RUTytgbvwVrAEXIGfcw7zB1filfqG3phh5tgpt12YZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-2ffa105d-31c8-4ab3-a05f-937b955ca973" tvg-name="Sportsnet One 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true" group-title="🌈 4K UHD",Sportsnet One 4K CA
+https://iptv.852851.xyz/l/VMFKe1ujg9qikmTkvwnP6stZ6xbbVs_7GN8uLuZlCigzn5jXlSI9oRj_odRMQwTI/index.m3u8
+#EXTINF:-1 tvg-id="stream-d94e80ae-8b18-45dc-a769-16212a1316fc" tvg-name="Sportsnet 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-4k-ca.png?raw=true" group-title="🌈 4K UHD",Sportsnet 4K CA
+https://iptv.852851.xyz/l/6QaUFY0t-W3aAs_Mf6f1-jloP3jxsryTkxQI21Da13yYk3b_o1iwg1wGnI_s22w4/index.m3u8
+#EXTINF:-1 tvg-id="stream-06d3f860-e89e-48d5-bb57-600bbef3b138" tvg-name="Love Nature 4K CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/500px-Love_Nature_logo_%282025%29.svg.png" group-title="🌈 4K UHD",Love Nature 4K CA
+https://iptv.852851.xyz/l/aFxMreV1vRXIB2oPt1mDTE14gwfaxmQkgfOWPZG48yQNmMlIcHBMPbQ3Vq5Flxao/index.m3u8
+#EXTINF:-1 tvg-id="stream-6a987d0a-ebe4-4577-8195-618f9c09ecde" tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="🌈 4K UHD",Love Nature 4K
+https://iptv.852851.xyz/l/HGxPZy_M96ckM7F9Y3GjBkPBud_AvlASvfZvVzThGler7AvC_RR1uDnPFnH2_AbQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-4966e3dd-f5e1-4273-a639-e2e3ecdf8364" tvg-name="INULTRA 4K PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/inultra-cz.png?raw=true" group-title="🌈 4K UHD",INULTRA 4K PL
+https://iptv.852851.xyz/l/iCi4g3Ac4zvc9mByk4kslbuQjD_hRnh0zfwN0mVqIDg7f29eE0wvHCIvAosc0N4N/index.m3u8
+#EXTINF:-1 tvg-id="stream-33e4bb43-94cb-4752-9f74-16931f4286bb" tvg-name="Sky Sports F1 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="🌈 4K UHD",Sky Sports F1 4K
+https://iptv.852851.xyz/l/idDb_hfUHgAVX-4vXrl_f4gPmjmFWE6FaPtJ9Ihp2aOx0L4MNk-0vghXdqA55epX/index.m3u8
+#EXTINF:-1 tvg-id="stream-e7a565ef-1e07-4aad-864a-4e3c638ee70b" tvg-name="FUSSBALL.TV 2 UHD" group-title="🌈 4K UHD",FUSSBALL.TV 2 UHD
+https://iptv.852851.xyz/l/gKp_oSfJxSD-fgeNGZZF9LtgXOLxWMaWDlWNM-n_iaxHEX9rf70suG3IQqI2S3Nd/index.m3u8
+#EXTINF:-1 tvg-id="stream-70f91bbe-7f69-4bcd-aa1c-f15d26129d60" tvg-name="FUSSBALL.TV 3 UHD" group-title="🌈 4K UHD",FUSSBALL.TV 3 UHD
+https://iptv.852851.xyz/l/mrAvXeLpQw1-Br6CbTzmRHumMa-xFg14onsLI2Rcn9lMszmhLz9MSMrffUIQFo49/index.m3u8
+#EXTINF:-1 tvg-id="stream-84705552-b6c2-4d78-8d1b-4cbdb0677205" tvg-name="Liga de Campeones por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png?raw=true" group-title="⚽ 欧洲体育",Liga de Campeones por M+ ES
+https://iptv.852851.xyz/l/MCAiAP4r_esKlALLGeD9I_vaHMJyHlanhfkXZbJbpBUjJ82uFyw17lBgoivcQbH7/index.m3u8
+#EXTINF:-1 tvg-id="stream-31d28965-a502-48ce-8595-600d7f1ce51c" tvg-name="Golf por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/golf-por-movistar-plus-es.png?raw=true" group-title="⚽ 欧洲体育",Golf por M+ ES
+https://iptv.852851.xyz/l/vEgNGXSdSzBYY-98W8iSwEMD4sEKcENq67pN2xW6O8TMWi4bLeCpGRBLjZRUEBHf/index.m3u8
+#EXTINF:-1 tvg-id="stream-29c83443-6f06-449f-9d49-dbfed9573e5a" tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/3840px-Sky_Sport_Bundesliga_2020.svg.png" group-title="⚽ 欧洲体育",Sky Sport Bundesliga DE
+https://iptv.852851.xyz/l/81H4Utv17eXgWczWUzO0LEb1AVxXIotOV1qgLSbLO3EoztIac-Rnb5jzpFquHdmI/index.m3u8
+#EXTINF:-1 tvg-id="stream-dd20a88b-6384-477e-89c0-dde50b4cb8a2" tvg-name="LaLiga por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/laliga-tv-por-movistar-plus-es.png?raw=true" group-title="⚽ 欧洲体育",LaLiga por M+ ES
+https://iptv.852851.xyz/l/2vQ7JOYsrRbofjU3yydZU4Ofn9pDto2GpwXQ0CAHsnd7EQFeumkJ2APCfzj0p0z9/index.m3u8
+#EXTINF:-1 tvg-id="stream-2211a875-0337-4362-b7ec-0eb49f05a651" tvg-name="Deportes por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/deportes-por-movistar-plus-es.png?raw=true" group-title="⚽ 欧洲体育",Deportes por M+ ES
+https://iptv.852851.xyz/l/uTo8RlPKydmkEnAvkSePOygK1k75Ax01jmWxQY1-5XjejF12MaPdWdzGQy_5eW14/index.m3u8
+#EXTINF:-1 tvg-id="stream-622be4b9-9abb-46e8-9e99-465f1189870c" tvg-name="DAZN 2 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn2-de.png?raw=true" group-title="⚽ 欧洲体育",DAZN 2 DE
+https://iptv.852851.xyz/l/cqdjvros2EeWEXFubULjbdRc2DOQMqVty7D466H_Ars1jEjbcTJltVMuDg__biMP/index.m3u8
+#EXTINF:-1 tvg-id="stream-c48e86e5-aa09-456b-b018-fd07bee70eed" tvg-name="DAZN 1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="⚽ 欧洲体育",DAZN 1 DE
+https://iptv.852851.xyz/l/7NPqGCzya9VIYX6TLJf36efR4UAMITo1HRb__kfNXVKvqYxs-TKoCWO9hR0zSKNM/index.m3u8
+#EXTINF:-1 tvg-id="stream-7c109002-97c5-4ac0-94fb-17cc5407d5d3" tvg-name="CANAL+ Foot FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-foot-fr.png?raw=true" group-title="⚽ 欧洲体育",CANAL+ Foot FR
+https://iptv.852851.xyz/l/smyemihICoTjvuPlpmTuVs9IXOK9zvzikye_vIBh_58DTvc5dGuePgO3M8AF3Azj/index.m3u8
+#EXTINF:-1 tvg-id="stream-40dac4ab-3fdf-460a-aefc-5255306ce247" tvg-name="CANAL+ Sport 360 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-sport-360-fr.png?raw=true" group-title="⚽ 欧洲体育",CANAL+ Sport 360 FR
+https://iptv.852851.xyz/l/bkNVv_l8uN1VWdmAhnlgEYoHaS8II7uJfqprIancTl62xNVtWH4_FbM77AGqJD2V/index.m3u8
+#EXTINF:-1 tvg-id="stream-b5835567-5478-4850-a1aa-b74148dce743" tvg-name="CANAL+ Sport FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-sport-fr.png?raw=true" group-title="⚽ 欧洲体育",CANAL+ Sport FR
+https://iptv.852851.xyz/l/RI7YiWbZLJ_uctUDXW3Iau0J0TOwYC7wq2kOjvbEkRWJq_UXAegRlwcJLbdnuT7U/index.m3u8
+#EXTINF:-1 tvg-id="stream-ee30e4c6-816b-4af7-abdf-47ab60935c93" tvg-name="beIN SPORTS 3 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/bein-sports-3-french-fr.png?raw=true" group-title="⚽ 欧洲体育",beIN SPORTS 3 FR
+https://iptv.852851.xyz/l/IjP5X1lF_RV6FGHjzjeBOMWeoBCYwXZ5PWDy63yN_C-qhUfza6SIx-4IM2ZfIg-O/index.m3u8
+#EXTINF:-1 tvg-id="stream-9296b3b9-4f71-4ce0-aaff-b3ac5b7087e8" tvg-name="beIN SPORTS 2 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/bein-sports-2-french-fr.png?raw=true" group-title="⚽ 欧洲体育",beIN SPORTS 2 FR
+https://iptv.852851.xyz/l/QDkgykZy2h0ISnDKbkPtXzp40RUJJnWQxvBBK_GWb96KMV0Au2khtQha1js2ChEF/index.m3u8
+#EXTINF:-1 tvg-id="stream-34fffe2b-317e-4976-8d2a-94dd312c71d9" tvg-name="beIN SPORTS 1 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/bein-sports-1-french-fr.png?raw=true" group-title="⚽ 欧洲体育",beIN SPORTS 1 FR
+https://iptv.852851.xyz/l/QDuqpe_eT2IUUq-Vr07Ehpm2TuKD6NLCn-AFkypZ3XIG-qKzof4bMf8fVIVV0YtH/index.m3u8
+#EXTINF:-1 tvg-id="stream-130079c9-9aa1-4f2e-a803-1c5ceda3850d" tvg-name="EuroSport 2 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/eurosport-2-fr.png?raw=true" group-title="⚽ 欧洲体育",EuroSport 2 FR
+https://iptv.852851.xyz/l/EC8TMX58CBgbbanUq9WWUXLDbYVNf43f__hzJom71G5bKfMlCy-4AHv3U_4vtAWD/index.m3u8
+#EXTINF:-1 tvg-id="stream-bbafce74-3e67-4595-b83c-e9694e964a77" tvg-name="EuroSport 1 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/eurosport-1-fr.png?raw=true" group-title="⚽ 欧洲体育",EuroSport 1 FR
+https://iptv.852851.xyz/l/48aEx0Gwksg6dHUb6SvNOKPK1tzfzYuE_ywEZ4B2VNVEx-fa6IT3fIUK5xhdlJvT/index.m3u8
+#EXTINF:-1 tvg-id="stream-fe65691a-ef88-49ad-bf03-3a94a2b76860" tvg-name="Premier Sports 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="⚽ 欧洲体育",Premier Sports 2 UK
+https://iptv.852851.xyz/l/tb-nY-K1HLHFLEaq2v9MMPX0WHgsxpQpQpQ4bwD29wAknpVepuybBnTCAZt7a6QJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-9ac6933d-f583-49a7-8dec-60a535c5d065" tvg-name="Premier Sports 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true" group-title="⚽ 欧洲体育",Premier Sports 1 UK
+https://iptv.852851.xyz/l/focrPNAe_CCe80OAvY3Wlf7XiYLBJgz1klGZsVrGBrG7qSK9EO71lCrGyCvc7vbU/index.m3u8
+#EXTINF:-1 tvg-id="stream-7d97e261-e85a-435c-935b-c04739c7f343" tvg-name="TNT Sports 4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="⚽ 欧洲体育",TNT Sports 4 UK
+https://iptv.852851.xyz/l/I4UmJa7GURPM6QLqW8qrKUZCCQq-PoyrsXZtHPA1lxVZy5bKi6QisAE8l9AhujYO/index.m3u8
+#EXTINF:-1 tvg-id="stream-f9d1ec8e-33a6-4fd6-9f10-ec22560b7934" tvg-name="TNT Sports 3 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="⚽ 欧洲体育",TNT Sports 3 UK
+https://iptv.852851.xyz/l/nRTZ3Wqo58QpYTAvX5xFx1b7anDTXdzGPHOUgnZkmZZvw0gkeHruun8NkQhVOGA4/index.m3u8
+#EXTINF:-1 tvg-id="stream-4f008c26-18b4-419c-809e-8f77c96d1ea9" tvg-name="TNT Sports 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="⚽ 欧洲体育",TNT Sports 2 UK
+https://iptv.852851.xyz/l/Mky9XYehdDxx21jAa8XF-wUfx1J1CcFSWNP_Z-cp-uxWi6qeCfLP6Xsh4iSXlx5J/index.m3u8
+#EXTINF:-1 tvg-id="stream-4715cecc-e84e-4d75-ae66-438f7d76b81c" tvg-name="TNT Sports 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="⚽ 欧洲体育",TNT Sports 1 UK
+https://iptv.852851.xyz/l/ob399K3E7lLkVzXmxTjWFoHcl0Ouvtprt10tHMJJgHFtz54CIzXFMhwapdD0hDlb/index.m3u8
+#EXTINF:-1 tvg-id="stream-c34ca24e-ec44-4801-ad1c-b11cc7932b39" tvg-name="Sky Sports Tennis UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Tennis UK
+https://iptv.852851.xyz/l/Oke_bAqlNMMeL6r0SgJIu9mCnn2AC3PaZxdiob10dLMTm4YCRCIZ95hor-KZfI-T/index.m3u8
+#EXTINF:-1 tvg-id="stream-561d0bcb-8196-46dd-b5f8-fee4811f00e2" tvg-name="Sky Sports+ UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports+ UK
+https://iptv.852851.xyz/l/dAvr-iqGPZppOlwoX4Pd9BhEteYswdWQmz9VAez_Q3UNFWgtE2HRBINY4ZLXkPTT/index.m3u8
+#EXTINF:-1 tvg-id="stream-01ab0ce4-e1e9-4f99-9065-aa7e76be9f68" tvg-name="Sky Sports Action UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Action UK
+https://iptv.852851.xyz/l/Erd6ur7OoSkmnP5RghWVqiVvGdjM1maevx1l--CR9-533vsFsAZ9IujGB6qzKDPg/index.m3u8
+#EXTINF:-1 tvg-id="stream-1e314158-2792-48b8-8ac6-e9e401fd4ee2" tvg-name="Sky Sports Racing UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Racing UK
+https://iptv.852851.xyz/l/9SYvr0UhNijClqZaElwiZ-bEq_11n82coFQ-4KBCCY-nl_CT0kv8QDoFbuKjsk7_/index.m3u8
+#EXTINF:-1 tvg-id="stream-54615fc7-e1fb-4b4d-95c1-2745891b6ae4" tvg-name="Sky Sports Golf UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Golf UK
+https://iptv.852851.xyz/l/o0MUnDFnFDDyRKAPmnRFAKJRt1Jr8dDby8RLP2WNCinAKynwM9Ko0HC1mevP4H8S/index.m3u8
+#EXTINF:-1 tvg-id="stream-5eb69050-ca46-45d5-89dd-009035175a1c" tvg-name="Sky Sports Mix UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Mix UK
+https://iptv.852851.xyz/l/F4ClbvM78XqYAcVCBNQxGyPqdK6s7ZdWLJ7Mt5qyNbMVEYPMST9_Cw0eI2zOIcZd/index.m3u8
+#EXTINF:-1 tvg-id="stream-55086c41-631e-4316-ba9d-8e3b291c48cc" tvg-name="Sky Sports Cricket UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Cricket UK
+https://iptv.852851.xyz/l/Bgu3S6liqkiquBb3zhyTWVvpz-Hn5iwUg1tcP88iLCnp_zVfInYZPVBZC2pbTuyI/index.m3u8
+#EXTINF:-1 tvg-id="stream-8c954b41-2257-46d4-9667-8583f10f4672" tvg-name="Sky Sports F1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports F1 UK
+https://iptv.852851.xyz/l/DLlJijkmny4VZu8EvcmNniGghaDSvJDiy7yTk4Vr3uxP1qsrE5OJB1zhkV9WYM_o/index.m3u8
+#EXTINF:-1 tvg-id="stream-562f20a7-5fae-4b51-903b-3f59c019a3f8" tvg-name="Sky Sports Football UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Football UK
+https://iptv.852851.xyz/l/FofXFdXCZ_d0kVcBQ0QkzXr4JaDZm6-SWNSMqMkrkcVwO0lb7VaLUphHfukl_RKR/index.m3u8
+#EXTINF:-1 tvg-id="stream-2e543c0f-33cf-481f-b403-e5c61e4ca763" tvg-name="Sky Sports Premier League UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Premier League UK
+https://iptv.852851.xyz/l/ZfVPFjgnaOvQkDtqQVgkYdE7JI4QciWinoBh3kkyd-XzDYw9RxVFaHpOWlsMzNKd/index.m3u8
+#EXTINF:-1 tvg-id="stream-dc5a5d70-7cad-43a4-b25e-5d66850de49f" tvg-name="Sky Sports Main Event UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports Main Event UK
+https://iptv.852851.xyz/l/msS0EnKvsLxzYL9mK41o_5lYriVcK0GP1hswrhM3qFZB0ktHVOumUaRdPs8_antZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-60dac172-9db8-4f05-b16b-fe700fe554da" tvg-name="Sky Sports News UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="⚽ 欧洲体育",Sky Sports News UK
+https://iptv.852851.xyz/l/CJEAdH3ZFIHxZAzq1D7bHDymEGPDBaZjuQundAQU7uaN9G3Zd0n8LzIOXkuORxBk/index.m3u8
+#EXTINF:-1 tvg-id="stream-4d584af3-bf51-4dd1-b7fd-4369ea580735" tvg-name="Sky Sport MotoGP IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-motogp-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport MotoGP IT
+https://iptv.852851.xyz/l/jYVNJjvsVvExOudMoeeIF8QUQejn7LLmzN8JM4dHL_WMi0zJHB0EcNhWFRGXzjyC/index.m3u8
+#EXTINF:-1 tvg-id="stream-9a1222b6-3c58-4f26-9fe2-2dc443966505" tvg-name="Sky Sport News DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-news-de.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport News DE
+https://iptv.852851.xyz/l/IcY36MmSMfomn-Z2BovIr505ETNI15LgARgViHGZAWXA_mo4xH3NcHJWmk1IW7-i/index.m3u8
+#EXTINF:-1 tvg-id="stream-d5f85119-3aae-47c9-84ab-6dd543f2eef8" tvg-name="Sky Sport F1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-f1-de.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport F1 DE
+https://iptv.852851.xyz/l/C3-PkyiM4aASKXJdeW32Ena1aZIx1uqHUZenTp3OG1FGdfqpbKuXHPP9cPuvQF9j/index.m3u8
+#EXTINF:-1 tvg-id="stream-66a85315-64ac-4eb6-bc03-71d06ca6607c" tvg-name="Sky Sport Premier League DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-premier-league-de.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Premier League DE
+https://iptv.852851.xyz/l/epoakiaHmvudco-ZKjDYBgzS3xyCRYznucDvczC8wNWhsFj9xPiIDwPjlnnBt6sr/index.m3u8
+#EXTINF:-1 tvg-id="stream-c6dad754-841d-4102-89e2-9817fc4b3089" tvg-name="Sky Sport Mix DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-mix-de.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Mix DE
+https://iptv.852851.xyz/l/MPI0E3JjU-EO2uf6XApITAg1wj-QH35CEG-956nYA8rADNDkYTwnRpKnXglCt1Jc/index.m3u8
+#EXTINF:-1 tvg-id="stream-3fe110b6-fe28-496c-af32-fd7b40352c59" tvg-name="Sky Sport Golf DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-golf-de.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Golf DE
+https://iptv.852851.xyz/l/INrjdKJRC5sfdWlmbRwTUOO4gncjHIiFClme9sCYXQksKKXNc07cA80JBGCn027O/index.m3u8
+#EXTINF:-1 tvg-id="stream-d40d562c-57af-4312-bc00-fdaff72a5d15" tvg-name="Sky Sport Austria 1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-austria-1-de.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Austria 1 DE
+https://iptv.852851.xyz/l/D0LopyJlI6klWR9Fy10nfOJ014V-CCdnfZqmhu3OOgM5RrXh3JMcVunpBv99YzZD/index.m3u8
+#EXTINF:-1 tvg-id="stream-24ea0de7-99b1-400a-b62a-e829e6cda7f5" tvg-name="Vamos por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/vamos-por-movistar-plus-es.png?raw=true" group-title="⚽ 欧洲体育",Vamos por M+ ES
+https://iptv.852851.xyz/l/FLWzD_jNT46Zz5r_6gQfzfvFRtu48HXMCV01yZj9amgS8be0NZowsnSZpxI5YcKb/index.m3u8
+#EXTINF:-1 tvg-id="stream-c08e9c56-9df7-4421-8617-acb84ff5fad3" tvg-name="Sky Sport 24 IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-24-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport 24 IT
+https://iptv.852851.xyz/l/e6l7LG1hjrdBm1XSSp7gRysoVtvZrd6sN3xGlPQohXY7u8t5MjnOrh62k3_q4DtJ/index.m3u8
+#EXTINF:-1 tvg-id="stream-7fa95a9d-1f8d-41d7-b9c2-0c0bac19017f" tvg-name="Sky Sport Tennis IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-tennis-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Tennis IT
+https://iptv.852851.xyz/l/D2O_TapJuqEzS_FHYSznf455g5V14aAN-f2Ocz9Im1Q7tVv9pwlluno8E1W9GFJ6/index.m3u8
+#EXTINF:-1 tvg-id="stream-6ac7b946-1dc2-47e3-a27e-9dba16a5cd27" tvg-name="Sky Sport Arena IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-arena-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Arena IT
+https://iptv.852851.xyz/l/dfZ2QkACgYc04of31nRMaReIV4gCqG861pvrARjs0vh6ELwXVLOBxgKpAhvEaAFf/index.m3u8
+#EXTINF:-1 tvg-id="stream-81d486ec-c628-4581-88b5-8a76d6942463" tvg-name="Sky Sport Basket IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-nba-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Basket IT
+https://iptv.852851.xyz/l/1RsJjGClNmaNEOIQs_VRYXzWl1FTSLf_4Smn9Zhuh_m4a1cOFjPkDR5Wza89WD2p/index.m3u8
+#EXTINF:-1 tvg-id="stream-c0ef82e9-de0d-407f-9b4e-017e1cbe440d" tvg-name="Sky Sport Max IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-max-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Max IT
+https://iptv.852851.xyz/l/sURnjreQZJhzcKQYfEsbE_sIT10Xtgk8-GWaMDZtG0LjwDq6kFWpPeM2QDGjyeoh/index.m3u8
+#EXTINF:-1 tvg-id="stream-9a656155-bd8b-4047-ab00-2e7816afd02b" tvg-name="Sky Sport F1 IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-f1-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport F1 IT
+https://iptv.852851.xyz/l/sdmkTSCZZwr3IALrKEJpmTvygDIrFvdqwiroT87LgqZ0OW6vIkNw4oT6Y68PJUvY/index.m3u8
+#EXTINF:-1 tvg-id="stream-ac90d1da-9ad3-4ae9-8493-6e218fe77c95" tvg-name="Sky Sport Golf IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-golf-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Golf IT
+https://iptv.852851.xyz/l/Dxp1KRlyFf2E9n_YvJ6M804yytQ_HbQk3wqkP_Pc1NS5u5Iib4uXeOgI3xy6srMX/index.m3u8
+#EXTINF:-1 tvg-id="stream-d54af3df-4596-4576-b1c0-87736d6d8f91" tvg-name="Sky Sport Legend IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-legend-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Legend IT
+https://iptv.852851.xyz/l/xz8rp38_523gceLk-hqCZsSoKIGLHeScWnkKh7oYfM5_vORYaShjUEpHm2drO8WW/index.m3u8
+#EXTINF:-1 tvg-id="stream-3b988962-85ee-4218-a8f3-d694446f6f85" tvg-name="Sky Sport Mix IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-mix-it.png?raw=true" group-title="⚽ 欧洲体育",Sky Sport Mix IT
+https://iptv.852851.xyz/l/l-W_W9OnLIB1ePYL75XHh1IKQcjck5GdkTKotFyOnjXm8CnbKMdgwLoc2ya58l-y/index.m3u8
+#EXTINF:-1 tvg-id="stream-28b3e422-ce65-41ee-9f33-69547c1eeeec" tvg-name="Sportsnet Ontario CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-ontario-ca.png?raw=true" group-title="⚽ 北美体育",Sportsnet Ontario CA
+https://iptv.852851.xyz/l/gZ1ZqsC-zCKAgo9hhbN487pmQ1RKweLpOxdll5SFDqXqqfTJVOqZ22KwZeDhPoF4/index.m3u8
+#EXTINF:-1 tvg-id="stream-cb4e14d5-2b60-462f-bdbf-0ab27c871f38" tvg-name="Sportsnet Pacific CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-pacific-ca.png?raw=true" group-title="⚽ 北美体育",Sportsnet Pacific CA
+https://iptv.852851.xyz/l/YwOUmybYzepqzPRr52HHeTbK2DHlDQ4L8Vroy1q-ShfGrog25cBgMCvlDSYasOO6/index.m3u8
+#EXTINF:-1 tvg-id="stream-3f950ccd-9616-4eeb-b50d-dacf05401615" tvg-name="Sportsnet World CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-world-ca.png?raw=true" group-title="⚽ 北美体育",Sportsnet World CA
+https://iptv.852851.xyz/l/QI3HZ5SbcMxs_h-jdkjQJN88LMfpaCsEtZ3SDtw2Pvp57SzSIA9qflKFtNAof2-z/index.m3u8
+#EXTINF:-1 tvg-id="stream-96be61f9-995f-4fc6-acea-76e380e1b0d4" tvg-name="Sportsnet 360 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-ca.png?raw=true" group-title="⚽ 北美体育",Sportsnet 360 CA
+https://iptv.852851.xyz/l/mmLfPL41tZWPPrlmWebnF_TQjBTG6O-lAlEOcgiWhF1IKv9HMcgFLxxXZAEqZrmY/index.m3u8
+#EXTINF:-1 tvg-id="stream-5f65934e-6e77-4777-a974-667f0bea5475" tvg-name="Sportsnet ONE CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-ca.png?raw=true" group-title="⚽ 北美体育",Sportsnet ONE CA
+https://iptv.852851.xyz/l/vTbublCrFaEZdW4Hu7d4-eipO_fZ19RzYiaN1lU0m3QA2by0e-OkvLbKbyFQ_kff/index.m3u8
+#EXTINF:-1 tvg-id="stream-f6b7ebe2-3964-4410-9d9d-24f8c1a68d6f" tvg-name="Sportsnet West CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-west-ca.png?raw=true" group-title="⚽ 北美体育",Sportsnet West CA
+https://iptv.852851.xyz/l/tQ9vBK4AfkdsB7qcWVaJBJfxO4hRmfKbFwzS6FUBKweXSrgnRVP2QECoPWlR2n-v/index.m3u8
+#EXTINF:-1 tvg-id="stream-ecca6d81-5024-4825-9ec3-e453cd174af4" tvg-name="Sportsnet East CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-ca.png?raw=true" group-title="⚽ 北美体育",Sportsnet East CA
+https://iptv.852851.xyz/l/Ph0f1-pkEc2xUvTKjmH4u59eAakPkDpXooUhOyZCdNCwPWkxyxLT9URdZOwuq0Hd/index.m3u8
+#EXTINF:-1 tvg-id="stream-2615643e-ddc0-402b-9494-648e063ee0b1" tvg-name="TSN5 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="⚽ 北美体育",TSN5 CA
+https://iptv.852851.xyz/l/HI3VgOj6GUFOc0KYESECjiXq8-ZJYQTxJa_aD2gBW_1tCcjwTPXdy2ZhSeJAbPFj/index.m3u8
+#EXTINF:-1 tvg-id="stream-881fa2fd-a14c-4759-8c6e-20f2c56f10f4" tvg-name="TSN1 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="⚽ 北美体育",TSN1 CA
+https://iptv.852851.xyz/l/M64rWrxlKfXQ-VIoS0YQjmXq35sA6gh6R9Yhih98IroqabalNCkxgLimp5J8tcr8/index.m3u8
+#EXTINF:-1 tvg-id="stream-935aae60-8c01-4769-9623-7b6af6dfd636" tvg-name="MSG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" group-title="⚽ 北美体育",MSG
+https://iptv.852851.xyz/l/asomOXOK484DsGrsjuMsWPzpDQPvRTlnMKWJYJWw8p3fTA9jHMKIH5AQ_fIvqCZO/index.m3u8
+#EXTINF:-1 tvg-id="stream-6514b5ec-6d92-4432-8fdb-204e82ceb0d0" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" group-title="⚽ 北美体育",Space City Home Network
+https://iptv.852851.xyz/l/yawW06KgM-Xe9wm-fQU6V2BA-yFcPCzX-Fnn-tace8u0sc3-uyGniHyJu_qZRX3z/index.m3u8
+#EXTINF:-1 tvg-id="stream-b47b57a6-8b13-4e41-a3d9-91f3d9ffe3b2" tvg-name="Tennis Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png" group-title="⚽ 北美体育",Tennis Channel
+https://iptv.852851.xyz/l/mwJP2ExxAnP9Qm5iGJeBjZO0DNzbAM-z2TkKSyKoyYRJAWVx9x3VPGgWrLVhd-ZH/index.m3u8
+#EXTINF:-1 tvg-id="stream-613bd0b6-65c7-43c1-8a0f-1b7ea5a4b05a" tvg-name="Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/1280px-Golf_Channel_logo_2025.svg.png?_=20260101093034" group-title="⚽ 北美体育",Golf Channel
+https://iptv.852851.xyz/l/gIoF6nP9bEXX22aX2ZhvR1EWULdZ4iohVW-PckSd0aY4n_dCZTqNtru1uKU18mrn/index.m3u8
+#EXTINF:-1 tvg-id="stream-12674e58-8433-4ff2-8d1b-b4640159aea9" tvg-name="NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/500px-NHL_Network_2012.svg.png" group-title="⚽ 北美体育",NHL Network
+https://iptv.852851.xyz/l/f9orTUJWL0qH7h-IGUZ2ScMgjfiMETtBpPwrfPqRHhNBO6V0liEcp43ngm8WskHu/index.m3u8
+#EXTINF:-1 tvg-id="stream-c39bf8cc-a5cd-43a7-8ab8-5571c8c8f886" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/500px-MLBNetworkLogo.svg.png" group-title="⚽ 北美体育",MLB Network
+https://iptv.852851.xyz/l/Ssr7z_5I0UA9mofEYXI0s4ZFlIWd8V_ouB-ILRLSVgCKTtQEUg38g2kT-pRvFnNM/index.m3u8
+#EXTINF:-1 tvg-id="stream-f781f99d-7dd7-43ef-99f1-265f64fc33cf" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" group-title="⚽ 北美体育",NFL RedZone
+https://iptv.852851.xyz/l/egXz762DI0iOe7i_MUcSW7-fMr354tY9d8VMz7rAuJhizsEipmeG_VsPQypOr6ok/index.m3u8
+#EXTINF:-1 tvg-id="stream-64993082-fe4a-447f-92d3-591f74aa1546" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/sports/leagues/nfl-us.png?raw=true" group-title="⚽ 北美体育",NFL Network
+https://iptv.852851.xyz/l/bm3GqvJAev1HRAlmI9xpAuL1CZ8LsqObnmLPgjsbTSUGXrLce4ENdY9sUMkNl811/index.m3u8
+#EXTINF:-1 tvg-id="stream-7ee1f499-f9b4-4998-902e-6a1f9b5a214d" tvg-name="Sportsnet Pittsburgh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsnet-pittsburgh-us.png?raw=true" group-title="⚽ 北美体育",Sportsnet Pittsburgh
+https://iptv.852851.xyz/l/oqz_bDgweM_ZObEajQGaH3bORPdSHZG7x5jnjRNSI5Hr0ZXWkJuYd5N6XEUiaaTy/index.m3u8
+#EXTINF:-1 tvg-id="stream-755bbbdc-b18e-49b4-a046-76ceb92b311c" tvg-name="Sportsnet New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1280px-SNY_logo.svg.png" group-title="⚽ 北美体育",Sportsnet New York
+https://iptv.852851.xyz/l/wXIII9wW6Ke3AqAp-6QJz7purzhKhtK3Be4_wyOWqnYL1OvJ6uvAymfW8orHhryr/index.m3u8
+#EXTINF:-1 tvg-id="stream-46848ef0-a1a3-46b6-a733-e194654c84b7" tvg-name="Altitude Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="⚽ 北美体育",Altitude Sports
+https://iptv.852851.xyz/l/PbXDyLtXljWXNKyhFZ1ik2kdXyMMh8khpGpZxJ_GmViewbf4iTEfGbsX512V0Elv/index.m3u8
+#EXTINF:-1 tvg-id="stream-11dd4f06-72ea-46b3-a6b7-eecc68334124" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="⚽ 北美体育",YES Network
+https://iptv.852851.xyz/l/57gNVkXIXwd5Op84WIBNXso563ZAEjd7wI4SB91g9jsoGxCf0mV3tIfNkais92gg/index.m3u8
+#EXTINF:-1 tvg-id="stream-a00663ed-bb6c-4f7d-ab12-0e6a5c9a880e" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/330px-NBA_TV.svg.png" group-title="⚽ 北美体育",NBA TV
+https://iptv.852851.xyz/l/GRxQxxvLf-ljIAHhAmhDAGKdCsc3Aty8nwZsL2UhZJflYeHdvtb11MZrl1LXalof/index.m3u8
+#EXTINF:-1 tvg-id="stream-8cb945b5-8e41-470a-b9cc-f7296ca94f0b" tvg-name="Big Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="⚽ 北美体育",Big Ten Network
+https://iptv.852851.xyz/l/YCjY42Y_CYQ8qnP8pKhpdNYmvnZj8yDQ3dKC2jsPCbIIDeFFzASr7BxqDNvT4_md/index.m3u8
+#EXTINF:-1 tvg-id="stream-9313e671-9827-49ef-9d2b-39a4eebc02b4" tvg-name="Marquee Sports Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/marquee-sports-network-us.png?raw=true" group-title="⚽ 北美体育",Marquee Sports Network
+https://iptv.852851.xyz/l/aAC1wiW_VVO-e8jaZF7M_VUGG_hjzUnlffFclSe6paH2P1x_ZGILjdAJQlEwV00L/index.m3u8
+#EXTINF:-1 tvg-id="stream-dc1ab607-600a-4b5e-9dd7-3c5bf9a283d3" tvg-name="beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/500px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="⚽ 北美体育",beIN SPORTS
+https://iptv.852851.xyz/l/7MD5XnGSwoWp2J1B5FUN9eQ8LvUTst1n1QdE5QZglRXFH9tKvR4iKRZkohdx-f80/index.m3u8
+#EXTINF:-1 tvg-id="stream-20c86189-87d2-4b21-8a90-1a6ddf93fc2f" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="⚽ 北美体育",NBC Sports Philadelphia
+https://iptv.852851.xyz/l/YtTyC9j6t7v29hCZt29ERUewQunB1KfjyBKAPH3M7Z_m9FkBEXXHmlBRNfbKHTA_/index.m3u8
+#EXTINF:-1 tvg-id="stream-3a24ee0a-27f4-4883-bb31-a62a5014c2c8" tvg-name="NBC Sports California" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="⚽ 北美体育",NBC Sports California
+https://iptv.852851.xyz/l/zK02iURspL0Uwc1f5EhRLlH6F7YBebyl1N62AJhKgTIJSdD1sijd9nSX6fIToa1Q/index.m3u8
+#EXTINF:-1 tvg-id="stream-a573ea88-b35d-4cf8-82c6-3110c3575bdb" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="⚽ 北美体育",NBC Sports Boston
+https://iptv.852851.xyz/l/GBgsuVsoBcVMKZg3Ed-8MaZ81dU778JtlxzGWRfrvnGlw93-U93PLGuwLgFggpMP/index.m3u8
+#EXTINF:-1 tvg-id="stream-8a1432fe-14b6-4556-a954-1e27b1a5bd73" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="⚽ 北美体育",NBC Sports Bay Area
+https://iptv.852851.xyz/l/bupIIQGKlu8OkrmvLr_kQUU3PYo8BXH2shKe2KOSMsezyQTdfP8na_kQN5Qzm-NP/index.m3u8
+#EXTINF:-1 tvg-id="stream-f63a3e63-2cd7-42c5-a444-170b4aced4f4" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="⚽ 北美体育",CBS Sports Network
+https://iptv.852851.xyz/l/HVTWGQ73Fx_y9tkJ4GHqWB92e3tkjNNjMW0lSCTMZs57EAY80Jb2BDiJCYfCIINQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-387afe79-d7a8-4403-be4a-c1e72d951964" tvg-name="FS2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="⚽ 北美体育",FS2
+https://iptv.852851.xyz/l/W2KaUdjlNIlncl-uCV6xu2hA7b68P54Et9aYMCupMBoxpmjnWv7yGYJ1NziYaKVC/index.m3u8
+#EXTINF:-1 tvg-id="stream-b62f5b91-ccee-418a-9389-eccde1eb017d" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="⚽ 北美体育",FS1
+https://iptv.852851.xyz/l/UVGbgamZDjeKXYzNlraCh43TwhQ6LwyfPfeT7IaWNF1dGBcBUd7eS4ybe63Up8fV/index.m3u8
+#EXTINF:-1 tvg-id="stream-f985d398-30e5-4f27-80f7-8d55c01bfc52" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="⚽ 北美体育",SEC Network
+https://iptv.852851.xyz/l/BOu_jQQBF4ago2yUHxiwoJ-KWFaw5_Sl1uPZzkik3JGRuBwNSSHTk9pDP8FML_Cf/index.m3u8
+#EXTINF:-1 tvg-id="stream-424258eb-c116-4513-846a-9c12492b57f0" tvg-name="ESPN Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true" group-title="⚽ 北美体育",ESPN Deportes
+https://iptv.852851.xyz/l/5ACNjvY8Gz2VBa_595eduAUYXRcQYQ5pZNaDrlSLzTNSvLWy2c4H49Th-ts_-fxx/index.m3u8
+#EXTINF:-1 tvg-id="stream-0b848410-93a0-4f52-bf8b-f2e1b3845215" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="⚽ 北美体育",ESPNU
+https://iptv.852851.xyz/l/63CLeCKeVqVoJhKuVLczQyTODoqnNel9jB1EOCU47wrj4VVnEhvAFdpWxScwZi4o/index.m3u8
+#EXTINF:-1 tvg-id="stream-5b0193fe-b49c-478e-91e2-905d0e542613" tvg-name="ESPNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="⚽ 北美体育",ESPNEWS
+https://iptv.852851.xyz/l/gCViaATqgBdKCJ_WwKm-_Ny_TazQbWcU3qnbO5wFBP9U6JGeEhvungJDxe4Iok4n/index.m3u8
+#EXTINF:-1 tvg-id="stream-1a91a632-cd8a-4035-aada-7946d4fc795e" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="⚽ 北美体育",ESPN2
+https://iptv.852851.xyz/l/Vk4O-pyP3HuOR6rf0n8l3wP3Gpz0wkyl8-UT3IWvSi5lPLLUYdZChOB5BaCzTHfI/index.m3u8
+#EXTINF:-1 tvg-id="stream-767162ae-3785-463d-a8a8-81aee24614e2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="⚽ 北美体育",ESPN
+https://iptv.852851.xyz/l/EgHVJ8raGqrYopwm11xvS77JHFgP4pK4o3MrQdSM5oivLztmo-1tbRwx0WJ1d9dO/index.m3u8
+#EXTINF:-1 tvg-id="stream-e7193b15-d5c0-4aed-8ea2-6138c41f1c8b" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="⚽ 北美体育",ACC Network
+https://iptv.852851.xyz/l/5dO8sv7eCc73R_WXngV22n4PY8d4W-JtKc9_a_zOFFPZB8jy1SEUqtLX4ITHU1zh/index.m3u8
+#EXTINF:-1 tvg-id="stream-bfee203f-da3a-46eb-ba3f-988c3a11d35f" tvg-name="TUDN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tudn-us.png?raw=true" group-title="⚽ 北美体育",TUDN
+https://iptv.852851.xyz/l/IJ71m8VRbRgAlH2E7LzbYypDn3bOVQnFUfnvyNRpU0wBah6LNzQKk0y_4ZgeVaYP/index.m3u8
+#EXTINF:-1 tvg-id="stream-2780dfaf-72a3-41f1-8628-101b3609f768" tvg-name="DAZN Ringside" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b6a492b04d7d534fa0e9e69380382d02/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694819506729_DAZN_TV_Ringside_Channel_HUD_Logo.png" group-title="⚽ 北美体育",DAZN Ringside
+https://iptv.852851.xyz/l/CBGgjCmKkgd0nyhpPVatSOIk2YpkJPTQdep6AJd1DUyi-ngTFF7FPQaSvwq5lKkM/index.m3u8
+#EXTINF:-1 tvg-id="stream-aebd1d63-35aa-4fe2-bbf3-8bef6e85b3de" tvg-name="HBO Boxing" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" group-title="⚽ 北美体育",HBO Boxing
+https://iptv.852851.xyz/l/MqEcCkav3IximNdlZE30FaCHdIs7whvjWzw7Fl3WNcnVsF_LIFVVVk7KlqX6e9AI/index.m3u8
+#EXTINF:-1 tvg-id="stream-16f2c60d-85af-4ede-b5ac-a5eaec894852" tvg-name="TSN The Ocho CA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20260421T140253SQUARE.png" group-title="⚽ 北美体育",TSN The Ocho CA
+https://iptv.852851.xyz/l/vINseDXSNEB-rQIUV3QFrg3dcvHJn6kLfThywMiLTEXHVio1CQCkvzIod5Kxx1qO/index.m3u8
+#EXTINF:-1 tvg-id="stream-46b333f2-6985-4cf6-8332-5b1082b6bacd" tvg-name="beIN SPORTS en Español" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-espanol-us.png?raw=true" group-title="⚽ 北美体育",beIN SPORTS en Español
+https://iptv.852851.xyz/l/zjLPVGX25SQVWCgIBEGv3BAFjoNKoyJP7ftF_NOjP0Yh156ncXVO4xK3ywCGKZr_/index.m3u8
+#EXTINF:-1 tvg-id="stream-f89260a0-197e-47e6-a2da-a3ca7b08179b" tvg-name="Chicago Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Chicago_Sports_Network_Logo.png" group-title="⚽ 北美体育",Chicago Sports Network
+https://iptv.852851.xyz/l/zL3bo5P5O0K3uilAlYkWSCJhrmXNfqb_hJlCieNlDK3CPfPQCVkWMg4ChSWy7ZRy/index.m3u8
+#EXTINF:-1 tvg-id="stream-d826110b-61ea-463d-9f47-724cc8c3fddb" tvg-name="FOX Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-deportes-us.png?raw=true" group-title="⚽ 北美体育",FOX Deportes
+https://iptv.852851.xyz/l/QhYUGAKg6neY6H4wxJAPdDRP7CHM7RYLk9wAitGobwwUDMLN87ySGKO7IVPUfSOD/index.m3u8
+#EXTINF:-1 tvg-id="stream-01fac592-5a44-4bb8-acf5-069c2d48946b" tvg-name="FOX Soccer Plus" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soccer-plus-us.png?raw=true" group-title="⚽ 北美体育",FOX Soccer Plus
+https://iptv.852851.xyz/l/YDVYyFeDmatTEpGiEMR6J57RjX-2TSsgyo-JDVOTJTRI0EwVJXE_8SMdyh-lygEi/index.m3u8
+#EXTINF:-1 tvg-id="stream-ee54fd8a-9859-4022-a6e4-daea80f2ef96" tvg-name="NESN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png?raw=true" group-title="⚽ 北美体育",NESN
+https://iptv.852851.xyz/l/q6o6h9Ezp-59t8PnM99qRcGt4ip8Z198onKjc_NinuIEhQV3YOc1FDHassn1NONj/index.m3u8
+#EXTINF:-1 tvg-id="stream-84bcbc36-1881-470c-bbe0-55a274d31bf7" tvg-name="Spectrum SportsNet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-us.png?raw=true" group-title="⚽ 北美体育",Spectrum SportsNet
+https://iptv.852851.xyz/l/jfSn7cKUIYM85jx0HdTMxTDpbWZmHps_emNrNOmzsms-MkFggRH9oi6hvzewNoIt/index.m3u8
+#EXTINF:-1 tvg-id="stream-c476dc56-d356-47e9-bccc-da885c8c92cc" tvg-name="Spectrum SportsNet LA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-la-us.png?raw=true" group-title="⚽ 北美体育",Spectrum SportsNet LA
+https://iptv.852851.xyz/l/uCWA02301euzBCXOvVx1kReyHnTJ4XxyR3QfIEzR993G7bLMlFpxga-K7AD7kMss/index.m3u8
+#EXTINF:-1 tvg-id="stream-91d209ef-1bb2-4ee7-a087-4b3fd4c2d7ed" tvg-name="Willow" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="⚽ 北美体育",Willow
+https://iptv.852851.xyz/l/y5_dpoq8uH8Jj1K8NZbqv-kZWlvY6ha8bUkoZT-plcD_2JBjDs4iaolFZXOiHpf4/index.m3u8
+#EXTINF:-1 tvg-id="stream-a7784539-ac88-4ef8-8f1b-156f213789ad" tvg-name="Billiard TV" tvg-logo="https://lge-static.ottera.tv/prod/bbb/linear_channel/anamorphic-logo/465x200/billiard_.png" group-title="⚽ 北美体育",Billiard TV
+https://iptv.852851.xyz/l/QnJUUB9q5MVWWAuitkl3oVNOeopxliqmOU0kvJDBgCh7RLNEnPJ564kdgPmQ3Nvx/index.m3u8
+#EXTINF:-1 tvg-id="stream-ccff7a0a-272f-4ffd-aa95-e01e0431d7f6" tvg-name="Bowling TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png" group-title="⚽ 北美体育",Bowling TV
+https://iptv.852851.xyz/l/VTiv6iRlLInHbA4Kr75_yUre7GzYGTe10glOEwqGzy9xQxq_tSwnKwVKYadd3Sqs/index.m3u8
+#EXTINF:-1 tvg-id="stream-593adba8-ca57-4cd3-be42-077e84910453" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/63d91d2560bc8f0008a225e4/colorLogoPNG_1750064962067.png" group-title="⚽ 北美体育",FIFA+
+https://iptv.852851.xyz/l/5i27qimpctasLfbWWc8CWcBd2orRW_MKXDAkTAkQ-U6-iETI1gt6qejncY8FGncv/index.m3u8
+#EXTINF:-1 tvg-id="stream-755df380-b7ae-4cf7-8820-f3f84107d35c" tvg-name="PokerGO" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="⚽ 北美体育",PokerGO
+https://iptv.852851.xyz/l/7Drp6NydwGqenb9-U9-RMU9G-ElW8cVZifNX61bjB1NTuIAQcraQ-ZdebAOFdSLV/index.m3u8
+#EXTINF:-1 tvg-id="stream-82977868-a24b-4af2-bde7-c3501df21345" tvg-name="World Poker Tour" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wpt/WPT_Light_R_Horizontal_700x200.png" group-title="⚽ 北美体育",World Poker Tour
+https://iptv.852851.xyz/l/u7FbCK5ddJ0F_095D-dma3p9xKDGMziQ31YKvxz8lJj5Ys2YFSKlTn9hCEQ04Am6/index.m3u8
