@@ -823,120 +823,153 @@ http://77.90.60.172:55555/7
 http://77.90.60.172:55555/9
 #EXTINF:-1 group-title="🎬体育频道",TNT2
 http://77.90.60.172:55555/0
+
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/至臻视界4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",至臻视界4K
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/至臻视界4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",至臻视界4K
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&$24M-FifastbLive
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界4K
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界1" tvg-logo="https://epg.112114.xyz/logo/咪视界1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界1
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界2" tvg-logo="https://epg.112114.xyz/logo/咪视界2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界3" tvg-logo="https://epg.112114.xyz/logo/咪视界3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界3
+http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界4" tvg-logo="https://epg.112114.xyz/logo/咪视界4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界4
+http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界5" tvg-logo="https://epg.112114.xyz/logo/咪视界5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界5
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界6" tvg-logo="https://epg.112114.xyz/logo/咪视界6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界6
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界7" tvg-logo="https://epg.112114.xyz/logo/咪视界7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界7
+http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界8" tvg-logo="https://epg.112114.xyz/logo/咪视界8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界8
+http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界9" tvg-logo="https://epg.112114.xyz/logo/咪视界9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界9
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界10" tvg-logo="https://epg.112114.xyz/logo/咪视界10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界10
+http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3$
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界11" tvg-logo="https://epg.112114.xyz/logo/咪视界11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界11
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界12" tvg-logo="https://epg.112114.xyz/logo/咪视界12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界12
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界13" tvg-logo="https://epg.112114.xyz/logo/咪视界13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界13
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界14" tvg-logo="https://epg.112114.xyz/logo/咪视界14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界14
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界15" tvg-logo="https://epg.112114.xyz/logo/咪视界15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界15
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界16" tvg-logo="https://epg.112114.xyz/logo/咪视界16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界16
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界17" tvg-logo="https://epg.112114.xyz/logo/咪视界17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界17
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界18" tvg-logo="https://epg.112114.xyz/logo/咪视界18.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界18
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界19" tvg-logo="https://epg.112114.xyz/logo/咪视界19.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界19
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界20" tvg-logo="https://epg.112114.xyz/logo/咪视界20.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界20
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界21" tvg-logo="https://epg.112114.xyz/logo/咪视界21.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界21
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界22" tvg-logo="https://epg.112114.xyz/logo/咪视界22.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界22
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界23" tvg-logo="https://epg.112114.xyz/logo/咪视界23.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界23
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界24" tvg-logo="https://epg.112114.xyz/logo/咪视界24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界24
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界25" tvg-logo="https://epg.112114.xyz/logo/咪视界25.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界25
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界26" tvg-logo="https://epg.112114.xyz/logo/咪视界26.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界26
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界27" tvg-logo="https://epg.112114.xyz/logo/咪视界27.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界27
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界28" tvg-logo="https://epg.112114.xyz/logo/咪视界28.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界28
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界29" tvg-logo="https://epg.112114.xyz/logo/咪视界29.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界29
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界30" tvg-logo="https://epg.112114.xyz/logo/咪视界30.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界30
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界31" tvg-logo="https://epg.112114.xyz/logo/咪视界31.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界31
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270004&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界32" tvg-logo="https://epg.112114.xyz/logo/咪视界32.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界32
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界33" tvg-logo="https://epg.112114.xyz/logo/咪视界33.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界33
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界34" tvg-logo="https://epg.112114.xyz/logo/咪视界34.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界34
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界35" tvg-logo="https://epg.112114.xyz/logo/咪视界35.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界35
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 group-title="🏀[移动]咪视界直播" tvg-name="咪视界36" tvg-logo="https://epg.112114.xyz/logo/咪视界36.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",咪视界36
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=yu&mode=1&$5M
+
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="来呀官人V" tvg-logo="https://epg.112114.xyz/logo/来呀官人V.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",来呀官人V
+http://live.nctv.top/douyu1.php?id=9986305
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="阿斗归来了" tvg-logo="https://epg.112114.xyz/logo/阿斗归来了.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿斗归来了
+https://live.ottiptv.cc/huya/13303478
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="芮橙说剧" tvg-logo="https://epg.112114.xyz/logo/芮橙说剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",芮橙说剧
+https://live.ottiptv.cc/huya/30287258
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="狗哥吃火锅" tvg-logo="https://epg.112114.xyz/logo/狗哥吃火锅.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",狗哥吃火锅
+https://live.ottiptv.cc/huya/21059624
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="扁豆看电影" tvg-logo="https://epg.112114.xyz/logo/扁豆看电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",扁豆看电影
+https://live.ottiptv.cc/huya/16028551
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="君陌观影" tvg-logo="https://epg.112114.xyz/logo/君陌观影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",君陌观影
+https://live.ottiptv.cc/huya/29420446
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="电影狂人A" tvg-logo="https://epg.112114.xyz/logo/电影狂人A.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",电影狂人A
+https://live.ottiptv.cc/huya/18715610
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="救赎电影" tvg-logo="https://epg.112114.xyz/logo/救赎电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",救赎电影
+https://live.ottiptv.cc/huya/29833341
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="力哥影视" tvg-logo="https://epg.112114.xyz/logo/力哥影视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",力哥影视
+https://live.ottiptv.cc/huya/23419131
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="小丑讲电影" tvg-logo="https://epg.112114.xyz/logo/小丑讲电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",小丑讲电影
+https://live.ottiptv.cc/huya/16857432
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="吾聊电影" tvg-logo="https://epg.112114.xyz/logo/吾聊电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",吾聊电影
+https://live.ottiptv.cc/huya/16424416
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="良少聊漫威" tvg-logo="https://epg.112114.xyz/logo/良少聊漫威.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",良少聊漫威
+https://live.ottiptv.cc/huya/25523725
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="老巴电影" tvg-logo="https://epg.112114.xyz/logo/老巴电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",老巴电影
+https://live.ottiptv.cc/huya/29340502
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="电影最TOP" tvg-logo="https://epg.112114.xyz/logo/电影最TOP.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",电影最TOP
+https://live.ottiptv.cc/huya/11774959
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="S哥影视" tvg-logo="https://epg.112114.xyz/logo/S哥影视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",S哥影视
+https://live.ottiptv.cc/huya/24720260
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="硬汉影探" tvg-logo="https://epg.112114.xyz/logo/硬汉影探.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",硬汉影探
+https://live.ottiptv.cc/huya/24614407
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="影小渔" tvg-logo="https://epg.112114.xyz/logo/影小渔.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",影小渔
+https://live.ottiptv.cc/huya/30296971
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="斌哥漫说" tvg-logo="https://epg.112114.xyz/logo/斌哥漫说.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",斌哥漫说
+https://live.ottiptv.cc/huya/18632116
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="南西视频" tvg-logo="https://epg.112114.xyz/logo/南西视频.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南西视频
+https://live.ottiptv.cc/huya/16913382
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="大象放映室" tvg-logo="https://epg.112114.xyz/logo/大象放映室.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大象放映室
+https://live.ottiptv.cc/huya/21277391
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="阿良说美剧" tvg-logo="https://epg.112114.xyz/logo/阿良说美剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿良说美剧
+https://live.ottiptv.cc/huya/20488841
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="止戈电影" tvg-logo="https://epg.112114.xyz/logo/止戈电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",止戈电影
+https://live.ottiptv.cc/huya/19863777
+#EXTINF:-1 group-title="🔊解说直播" tvg-name="小丑电影" tvg-logo="https://epg.112114.xyz/logo/小丑电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",小丑电影
+https://live.ottiptv.cc/huya/29869799
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="微笑和苦瓜" tvg-logo="https://epg.112114.xyz/logo/微笑和苦瓜.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",微笑和苦瓜
+https://live.ottiptv.cc/huya/28213261
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="熊孩子沙雕动画" tvg-logo="https://epg.112114.xyz/logo/熊孩子沙雕动画.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",熊孩子沙雕动画
+https://live.ottiptv.cc/huya/25243852
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="悸动" tvg-logo="https://epg.112114.xyz/logo/悸动.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",悸动
+https://live.ottiptv.cc/huya/28272846
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="小小天才搞笑视频" tvg-logo="https://epg.112114.xyz/logo/小小天才搞笑视频.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",小小天才搞笑视频
+http://live.nctv.top/douyu1.php?id=9419678
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="冰糖葫芦没放盐V" tvg-logo="https://epg.112114.xyz/logo/冰糖葫芦没放盐V.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",冰糖葫芦没放盐V
+http://live.nctv.top/douyu1.php?id=3505453
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="动画大师姐" tvg-logo="https://epg.112114.xyz/logo/动画大师姐.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",动画大师姐
+http://live.nctv.top/douyu1.php?id=9742136
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="立秋动画" tvg-logo="https://epg.112114.xyz/logo/立秋动画.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",立秋动画
+http://live.nctv.top/douyu1.php?id=10351891
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="天才大熊猫啊" tvg-logo="https://epg.112114.xyz/logo/天才大熊猫啊.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",天才大熊猫啊
+http://live.nctv.top/douyu1.php?id=10646699
+#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-name="绘说篮球C" tvg-logo="https://epg.112114.xyz/logo/绘说篮球C.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",绘说篮球C
+http://live.nctv.top/douyu1.php?id=9401305
 # ==================================================
-#               FIFA WORLD CUP 2026
+#               国外
 # ==================================================
-
-
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K (Not 24/7)
-http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/2075520
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FS1 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 4K (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120333
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA Test" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA Test
-https://idabest.danng.me/live/stream-966c958f-1bc4-480f-9bbf-1df6d85c0636/index.m3u8?u=gar&p=2fd631d7c078c9db237efee87656681ed930f27b6c6694b915db52f763fd90aa
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN1 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120273
-#EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN2 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN2 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120274
-#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN3 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN3 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120275
-#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN4 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN4 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120276
-#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN5 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN5 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120277
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC 4K UK (Not 24/7)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC 4K UK (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC One UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC Two UK
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/235
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
-#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="FIFA World Cup 2026",ITV4 UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 4K FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="FIFA World Cup 2026",M6 4K FR
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120338
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball.TV 1 4K DE Test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 1 4K DE Test
-https://idabest.danng.me/live/stream-677f9479-dad5-42a6-acc0-0f2b0dccde3f/index.m3u8?u=gar&p=2fd631d7c078c9db237efee87656681ed930f27b6c6694b915db52f763fd90aa
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball.TV 1 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 1 4K DE
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120339
-#EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball.TV 2 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 2 4K DE
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950356
-#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball.TV 3 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 3 4K DE
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951086
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K HDR" tvg-logo="https://assets.bein.com/mena/sites/3/2026/05/4K-HDR-200x200-1.png" group-title="FIFA World Cup 2026",beIN SPORTS 4K HDR
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1953460
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 1
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944357
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 2
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944358
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 3
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944359
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 4
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944360
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 5
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1946727
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS MAX 6
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1946735
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 616 4K (Not 24/7)" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="FIFA World Cup 2026",NOW Sports 616 4K (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 617 4K (Not 24/7)" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="FIFA World Cup 2026",NOW Sports 617 4K (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120337
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="FIFA World Cup 2026",NOW Sports 618
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
-#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="FIFA World Cup 2026",NOW Sports 619
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
-
-
-
-# ==================================================
-#                      4K UHD
-# ==================================================
-
-
-# === 🇺🇸 US ===
-
-#EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Clarity_4K.png" group-title="4K UHD",Clarity 4K
-https://pb-qyrvophnifz47.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qyrvophnifz47/51e90851-a1fe-45bf-bbe2-591b2bf91b9f/3.m3u8
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K
-https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-
-# === 🇨🇦 CA ===
-
-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature 4K CA" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119322
-#EXTINF:-1 tvg-id="Sportsnet.4K.ca2" tvg-name="SportsNet 4K CA" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOntario4k.ca.png" group-title="4K UHD",SportsNet 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119328
-#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-name="SportsNet ONE 4K CA" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOne4k.ca.png" group-title="4K UHD",SportsNet ONE 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119329
-#EXTINF:-1 tvg-id="Stingray.Festival.4K.pl" tvg-name="Stingray Festival 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/stingray-festival-4k-es.png?raw=true" group-title="4K UHD",Stingray Festival 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119331
-#EXTINF:-1 tvg-id="" tvg-name="Stingray NOW 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/stingray-now-4k-ca.png?raw=true" group-title="4K UHD",Stingray NOW 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119332
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="4K UHD",TSN 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-
-# === 🇬🇧 UK ===
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports Main Event 4K UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119327
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports F1 4K UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.HD.uk" tvg-name="TNT Sports Ultimate 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true" group-title="4K UHD",TNT Sports Ultimate 4K UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
-
-# === 🇵🇱 PL ===
-
-#EXTINF:-1 tvg-id="INULTRA.pl" tvg-name="INULTRA 4K PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/inultra-cz.png?raw=true" group-title="4K UHD",INULTRA 4K PL
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119321
-
-#EXTM3U url-tvg="https://gitflic.ru/project/reaperc/us-iptv/blob/raw?file=M3U8/TV.xml"
 
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
