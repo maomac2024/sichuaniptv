@@ -1,38 +1,60 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="🔥[三网1]央卫视直播",CCTV1
-http://60.10.139.113:8801/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="🔥[三网1]央卫视直播",CCTV2
-http://60.10.139.113:8801/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="🔥[三网1]央卫视直播",CCTV3
-http://60.10.139.113:8801/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="🔥[三网1]央卫视直播",CCTV4
-http://60.10.139.113:8801/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="🔥[三网1]央卫视直播",CCTV5
-http://60.10.139.113:8801/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="🔥[三网1]央卫视直播",CCTV6
-http://60.10.139.113:8801/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="🔥[三网1]央卫视直播",CCTV7
-http://60.10.139.113:8801/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="🔥[三网1]央卫视直播",CCTV8
-http://60.10.139.113:8801/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="🔥[三网1]央卫视直播",CCTV9
-http://60.10.139.113:8801/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="🔥[三网1]央卫视直播",CCTV10
-http://60.10.139.113:8801/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="🔥[三网1]央卫视直播",CCTV11
-http://60.10.139.113:8801/hls/96/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="🔥[三网1]央卫视直播",CCTV12
-http://60.10.139.113:8801/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="🔥[三网1]央卫视直播",CCTV13
-http://60.10.139.113:8801/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="🔥[三网1]央卫视直播",CCTV14
-http://60.10.139.113:8801/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="🔥[三网1]央卫视直播",CCTV15
-http://60.10.139.113:8801/hls/97/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5+.png" group-title="🔥[三网1]央卫视直播",CCTV5+
-http://60.10.139.113:8801/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="🔥[三网1]央卫视直播",CCTV17
-http://60.10.139.113:8801/hls/98/index.m3u8
+#EXTINF:-1,group-title="央视1080p" CCTV1综合
+http://112.194.199.151:7788/608807420
+#EXTINF:-1,group-title="央视1080p" CCTV2财经
+http://112.194.199.151:7788/631780532
+#EXTINF:-1,group-title="央视1080p" CCTV3综艺
+http://112.194.199.151:7788/624878271
+#EXTINF:-1,group-title="央视1080p" CCTV4中文国际
+http://112.194.199.151:7788/631780421
+#EXTINF:-1,group-title="央视1080p" CCTV5体育
+http://112.194.199.151:7788/641886683
+#EXTINF:-1,group-title="央视1080p" CCTV5+体育赛事
+http://112.194.199.151:7788/641886773
+#EXTINF:-1,group-title="央视1080p" CCTV6电影
+http://112.194.199.151:7788/624878396
+#EXTINF:-1,group-title="央视1080p" CCTV7国防军事
+http://112.194.199.151:7788/673168121
+#EXTINF:-1,group-title="央视1080p" CCTV8电视剧
+http://112.194.199.151:7788/624878356
+#EXTINF:-1,group-title="央视1080p" CCTV9纪录
+http://112.194.199.151:7788/673168140
+#EXTINF:-1,group-title="央视1080p" CCTV10科教
+http://112.194.199.151:7788/624878405
+#EXTINF:-1,group-title="央视1080p" CCTV11戏曲
+http://112.194.199.151:7788/667987558
+#EXTINF:-1,group-title="央视1080p" CCTV12社会与法
+http://112.194.199.151:7788/673168185
+#EXTINF:-1,group-title="央视1080p" CCTV13新闻
+http://112.194.199.151:7788/608807423
+#EXTINF:-1,group-title="央视1080p" CCTV14少儿
+http://112.194.199.151:7788/624878440
+#EXTINF:-1,group-title="央视1080p" CCTV15音乐
+http://112.194.199.151:7788/673168223
+#EXTINF:-1,group-title="央视1080p" CCTV17农业农村
+http://112.194.199.151:7788/673168256
+#EXTINF:-1,group-title="央视1080p" CCTV4欧洲
+http://112.194.199.151:7788/608807419
+#EXTINF:-1,group-title="央视1080p" CCTV4美洲
+http://112.194.199.151:7788/608807416
+#EXTINF:-1,group-title="央视1080p" CGTN外语纪录
+http://112.194.199.151:7788/609006487
+#EXTINF:-1,group-title="央视1080p" CGTN阿拉伯语
+http://112.194.199.151:7788/609154345
+#EXTINF:-1,group-title="央视1080p" CGTN西班牙语
+http://112.194.199.151:7788/609006450
+#EXTINF:-1,group-title="央视1080p" CGTN法语
+http://112.194.199.151:7788/609006476
+#EXTINF:-1,group-title="央视1080p" CGTN俄语
+http://112.194.199.151:7788/609006446
+#EXTINF:-1,group-title="央视1080p" 老故事
+http://112.194.199.151:7788/884121956
+#EXTINF:-1,group-title="央视1080p" 发现之旅
+http://112.194.199.151:7788/624878970
+#EXTINF:-1,group-title="央视1080p" 中学生
+http://112.194.199.151:7788/708869532
+#EXTINF:-1,group-title="央视1080p" CGTN
+http://112.194.199.151:7788/609017205
 #EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
