@@ -1,16 +1,4 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-name="E-News 娛樂新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/E-News%20%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="【粤港澳】無綫電視",E-News 娛樂新聞台
-https://iptv.852851.xyz/l/R0ufvxrj-RRDjZNt-hTBWQcpeuQbBpKXj2ZOaP0O_yON65TcnG_WL8CnXcaAdqPQ/index.m3u8
-#EXTINF:-1 tvg-name="Popc" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Popc.png" group-title="【粤港澳】無綫電視",Popc
-https://iptv.852851.xyz/l/EhQzjkcON6Ca_wHyP_Ci8_0nsMow5ujSe-03ROJB0qC8gR2hGMoRtCWyFVEE96B9/index.m3u8
-#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%20PLUS.png" group-title="【粤港澳】無綫電視",TVB PLUS
-https://iptv.852851.xyz/l/PlwtoVkhRA0D6AWKvbIz5UdsveXSzb109twFyANwpYMVTdeFktV3_JrWPFbvM6QR/index.m3u8
-#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="【粤港澳】無綫電視",美亞電影台
-https://iptv.852851.xyz/l/OoKDhcWRJ7O8UsFzp4gcMZWV7bzcstC3nY15GGmjc8g1mQ0lSOjcJCV8wv_qWhn7/index.m3u8
-#EXTINF:-1 tvg-name="黃金華劇台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87%E5%8F%B0.png" group-title="【粤港澳】無綫電視",黃金華劇台
-https://iptv.852851.xyz/l/OkVRTQObLJ7Dx_Nzr2Li-1zrMu3DFr9oXehBS8-N1si7ZTs6U5hGAK_I2RRr-Pqx/index.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png" group-title="【宝岛】綜合&amp;其它",TVBS
 https://iptv.852851.xyz/l/xI6JPcVwufkiaKLuSp1-AsPq6wWFVXkl5XP_oySA0nmiUQcT_tz64jb1d8JMtIgr/index.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png" group-title="【宝岛】綜合&amp;其它",TVBS
@@ -91,38 +79,6 @@ https://iptv.852851.xyz/l/E1IlFEvLsqWEM3XWHnJfh2FxVq-fECUWAKL01mOn1YNZC54QbnptNX
 https://iptv.852851.xyz/l/E_lb685xGjBqqFPWrZUCZ1jbiTxPtdlOYfg6OJudZ0JYAz_Xeq65gTVOss23l6Gb/index.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/beIN%20SPORTS%203.png" group-title="【體育】",beIN SPORTS 3
 https://iptv.852851.xyz/l/lx5S4QcNqn0AEX9UK8mZLoKXKELduiyo6u0NI1vSOd6EVI32kmO43KJAfGAAbLg1/index.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="广东频道",广东体育
-https://iptv.852851.xyz/l/nX9XFbQp18eKYVb4PG1C4gzrYyqZsUpL1VuCNEdmIF6ScNTMq2-ozUiq8L_DDdQd/index.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png" group-title="广东频道",广东新闻
-https://iptv.852851.xyz/l/yih2DIQ_8MdEnI0wEw2-Avcycoa7NCMDJKz60YpdYhC1ZXA7-sCj3PikxTucXLPZ/index.m3u8
-#EXTINF:-1 tvg-name="BBC 4K UK (Not 24/7)" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/BBC%204K%20UK%20%28Not%2024%2F7%29.png" group-title="FIFA World Cup 2026",BBC 4K UK (Not 24/7)
-https://iptv.852851.xyz/l/BrI7RCMMxa_wu8oFf38VLExROhYPIsxM8OvFD-aSOeqTPvWEg-ezgvqtIqmmST2F/index.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/FOX.png" group-title="FIFA World Cup 2026",FOX
-https://iptv.852851.xyz/l/qh0FsWj3Eij7Zy6vfYoEPsoVVG8BrcjT8VmG74HMtBEygwxmK2seR4iVA_cJJ_-Y/index.m3u8
-#EXTINF:-1 tvg-name="FOX 4K" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/FOX%204K.png" group-title="FIFA World Cup 2026",FOX 4K
-https://iptv.852851.xyz/l/cy2jGoKtL_5fcIN_Yn4CaHO2auhoUC4OTIIxjgFztimlN_bfYKfK3gXlgkTMJs9o/index.m3u8
-#EXTINF:-1 tvg-name="FOX 4K (Not 24/7) 01" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/FOX%204K%20%28Not%2024%2F7%29%2001.png" group-title="FIFA World Cup 2026",FOX 4K (Not 24/7) 01
-https://iptv.852851.xyz/l/0Ogp1mbsFqPRU2orS71ClZkXE10wAyNOGHevb7IaFV4hLA3eZaXU1B_W5kDmAYP4/index.m3u8
-#EXTINF:-1 tvg-name="FS1 4K (Not 24/7)" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/FS1%204K%20%28Not%2024%2F7%29.png" group-title="FIFA World Cup 2026",FS1 4K (Not 24/7)
-https://iptv.852851.xyz/l/_WoDhwziiCwOcZUdlw0CT7Bcs5DfafjB_LI5IJa71D4P8UQS1Tlrg5MV7hQ0LnmR/raw
-#EXTINF:-1 tvg-name="Fussball.TV 1 4K DE" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Fussball.TV%201%204K%20DE.png" group-title="FIFA World Cup 2026",Fussball.TV 1 4K DE
-https://iptv.852851.xyz/l/eOvt9aBsqi78HScvFOAmTh6cTpR_3iZK2AyPbar8O0mI305FsDvsqqZjqs7iZy3W/index.m3u8
-#EXTINF:-1 tvg-name="Fussball.TV 2 4K DE" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Fussball.TV%202%204K%20DE.png" group-title="FIFA World Cup 2026",Fussball.TV 2 4K DE
-https://iptv.852851.xyz/l/wVkPB1Q1DpzQe3Hx8-3B7Axoc-TCFubHGdhNe63-qTi7OPhcJI7eUMuBGwUrQk_L/index.m3u8
-#EXTINF:-1 tvg-name="M6 4K FR" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/M6%204K%20FR.png" group-title="FIFA World Cup 2026",M6 4K FR
-https://iptv.852851.xyz/l/mRobJ6qQbMjHVrgQwdaF8CJEjnpcAjPbFtG7AacRrvHExxgZQhFbif4gmyQHgIsq/index.m3u8
-#EXTINF:-1 tvg-name="NOW Sports 616 4K (Not 24/7)" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/NOW%20Sports%20616%204K%20%28Not%2024%2F7%29.png" group-title="FIFA World Cup 2026",NOW Sports 616 4K (Not 24/7)
-https://iptv.852851.xyz/l/Nud45KrrRxmq4aMpgcKT_9OajUIjyzIGV_IKQyPH_B7X2_jXKYpwgiNY3-C7GU0I/index.m3u8
-#EXTINF:-1 tvg-name="One Sports+" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/One%20Sports%2B.png" group-title="FIFA World Cup 2026",One Sports+
-https://iptv.852851.xyz/l/aHhyxra1O4g61qgEKFCapELHoF2_ijyKU0p6T8bK-whfl-LN9zZ5fTeN8nN8vfKU/index.m3u8
-#EXTINF:-1 tvg-name="TSN 4K CA 01" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TSN%204K%20CA%2001.png" group-title="FIFA World Cup 2026",TSN 4K CA 01
-https://iptv.852851.xyz/l/J3aknvBog6hRBB4oHOJ5f0rSI338CqRwxLGWoBrVuB1LGAgbTsIbud2nZz-UHqlC/index.m3u8
-#EXTINF:-1 tvg-name="TSN 4K CA 02" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TSN%204K%20CA%2002.png" group-title="FIFA World Cup 2026",TSN 4K CA 02
-https://iptv.852851.xyz/l/vFo2rGv9RH4LB1BVTY6uFkE69fNG0lyJWOXRRcI2XnW5xHOavGI6HCR-AANR6LFT/index.m3u8
-#EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Telemundo.png" group-title="FIFA World Cup 2026",Telemundo
-https://iptv.852851.xyz/l/2I-sBlaNDUl5BqZtximi9bUsUcgxWbiW4Dy5FvhvuSXvGazWbsrQpTQOmvGlBAH2/index.m3u8
-#EXTINF:-1 tvg-name="Universo" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Universo.png" group-title="FIFA World Cup 2026",Universo
-https://iptv.852851.xyz/l/NqRLC1iQ6rJzClIB-0fNvKfQ1RvaYjIrFpaw-ZPzL7vKZi8UO0C0l0veeGmoACXy/index.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/HBO.png" group-title="【粤港澳】Now Player",HBO
 https://iptv.852851.xyz/l/Igqw7P9oEQwFt195lRgL1XvAKAgXj5GHyIwLnAYClYDrfhf9cRW_jCg8Qunzfn0f/index.m3u8
 #EXTINF:-1 tvg-name="Now Sports 641" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Now%20Sports%20641.png" group-title="【粤港澳】Now Player",Now Sports 641
@@ -189,10 +145,6 @@ https://iptv.852851.xyz/l/l2-hayllVLQZEPlzd1Wct8Muqa2Eca2ypphAGU2FbLdCjCHRZDGzYF
 https://iptv.852851.xyz/l/yKQ47J7Kb_vy67QSKBL3OciV0ARd9ZDzcCMrLPkxLUAxvtNCK4nAwqZlZkalUgBC/index.m3u8
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3.png" group-title="🇭🇰 香港频道",龙祥时代
 https://iptv.852851.xyz/l/zZjnHnsj6-49MX3sPlNN24cEjPdnCGs2rB3KiWqpZ5fYrMxpvg9xBRdMCkXeazvy/index.m3u8
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/HOY%20TV.png" group-title="【粤港澳】奇妙電視",HOY TV
-https://iptv.852851.xyz/l/G65GmvuU2eg49wEwbRMjAjp8aGxb-8ysHw38dQvkxObcbO08INcqfiGZVFA9ojIu/index.m3u8
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Thrill.png" group-title="【影視】",Thrill
-https://iptv.852851.xyz/l/P8dhxjf2GWWtIZ-60qDbdSurbau__WXmPCtWqlg2o4pEWtBl-jO5M1095OLk-ezq/index.m3u8
 #EXTINF:-1 tvg-name="FIGHT SPORTS HD" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/FIGHT%20SPORTS%20HD.png" group-title="🇸🇬 新加坡频道",FIGHT SPORTS HD
 https://iptv.852851.xyz/l/--6MDIzMKvSxitxI0FfMe_7gOhfVI9RJPBqcHHF4yK43Wd14RgzOG3huMWigqFH_/index.m3u8
 #EXTINF:-1 tvg-name="Hub Premier 1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/Hub%20Premier%201%20HD.png" group-title="🇸🇬 新加坡频道",Hub Premier 1 HD
