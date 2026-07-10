@@ -341,10 +341,8 @@ http://live.nctv.top/douyu1.php?id=9401305
 
 # === 🇺🇸 US ===
 
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K (Not 24/7)
-https://idabest.danng.me/live/stream-d316229c-0661-48dc-98ee-0b76b30a3151/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/109511
 
 # === 🇨🇦 CA ===
 
@@ -355,7 +353,7 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 
 # === 🇬🇧 UK ===
 
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC 4K UK (Not 24/7)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC 4K UK (Not 24/7)
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC UHD UK (Not 24/7)" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/BBC_UHD.svg" group-title="FIFA World Cup 2026",BBC UHD UK (Not 24/7)
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC One UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265
@@ -366,23 +364,23 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 4K FR (Not 24/7)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="FIFA World Cup 2026",M6 4K FR (Not 24/7)
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120338
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN SPORTS 1 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/BeINSports1.svg" group-title="FIFA World Cup 2026",beIN SPORTS 1 FR
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/54614
 
 # === 🇩🇪 DE ===
 
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball.TV 1 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 1 4K DE
+#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="MagentaTV FUSSBALL.TV 1 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Magenta_TV_2024.svg" group-title="FIFA World Cup 2026",MagentaTV FUSSBALL.TV 1 4K DE
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120339
 
-# === 🇪🇸 ES ===
+# === 🇶🇦 QA ===
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial ES" tvg-logo="https://docdog.top/logo/countries/new/es/other/DAZN_MUNDIAL.png" group-title="FIFA World Cup 2026",DAZN Mundial ES
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/158460
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K HDR QA" tvg-logo="https://assets.bein.com/mena/sites/3/2026/05/4K-HDR-200x200-1.png" group-title="FIFA World Cup 2026",beIN SPORTS 4K HDR QA
+http://ip365.cx/CBDD6BBD/A58C2D94/1425814
 
 # === 🇭🇰 HK ===
 
 #EXTINF:-1 tvg-id="Now.Sports.4K.616.hk" tvg-name="NOW Sports 616 4K HK (Not 24/7)" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="FIFA World Cup 2026",NOW Sports 616 4K HK (Not 24/7)
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
+#EXTINF:-1 tvg-id="Now.Sports.4K.618.hk" tvg-name="NOW Sports 618 HK" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="FIFA World Cup 2026",NOW Sports 618 HK
+http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465863
 
 # === 🇯🇵 JP ===
 
