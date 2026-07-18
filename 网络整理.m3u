@@ -148,10 +148,6 @@ https://vdm6-ali.hrypl168.com/live/a6.flv
 https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 group-title="极速港台" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
 https://cdn6.cc.cd/163189/fhzw
-#EXTINF:-1 group-title="极速港台" tvg-name="CCTV1港澳版" tvg-logo="https://epg.112114.xyz/logo/CCTV1港澳版.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV1港澳版
-https://cdn6.cc.cd/163189/cctv1
-#EXTINF:-1 group-title="极速港台" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV13
-https://10.fast.hidns.vip/163189/cctv13/
 #EXTINF:-1 group-title="极速港台" tvg-name="TVB Plus(字幕)" tvg-logo="https://epg.112114.xyz/logo/TVB Plus(字幕).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TVB Plus(字幕)
 https://cdn3.indevs.in/stream/tvb/tvbp/
 #EXTINF:-1 group-title="极速港台" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOY TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HOY TV
@@ -282,14 +278,6 @@ https://10.fast.hidns.vip/163189/mzt/
 https://10.fast.hidns.vip/163189/tvbp/
 #EXTINF:-1 group-title="极速港台" tvg-name="黄金华剧台(WebVTT字幕)" tvg-logo="https://epg.112114.xyz/logo/黄金华剧台(WebVTT字幕).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",黄金华剧台(WebVTT字幕)
 https://10.fast.hidns.vip/163189/hjhjt/
-#EXTINF:-1 group-title="极速港台" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",重温经典
-https://168.sryze.cc/163189/cwjd
-#EXTINF:-1 group-title="极速港台" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广州综合
-https://168.sryze.cc/163189/gzzh
-#EXTINF:-1 group-title="极速港台" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广州新闻
-https://168.sryze.cc/163189/gzxw
-#EXTINF:-1 group-title="极速港台" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广州南国都市
-https://cdn15.163189.xyz/163189/ngds
 #EXTINF:-1 group-title="极速港台" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",五星体育
 https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 group-title="极速港台" tvg-name="民视影剧台" tvg-logo="https://epg.112114.xyz/logo/民视影剧台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视影剧台
