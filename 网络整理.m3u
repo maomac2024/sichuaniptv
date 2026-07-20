@@ -1630,7 +1630,10 @@ https://rebrand.ly/pveefn3
 
 #EXTINF:-1 tvg-id="nhk-bsp4k.jp" tvg-name="NHK BSP4K JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="FIFA World Cup 2026",NHK BSP4K JP
 https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
-
+#EXTINF:-1 tvg-id="nhk-bsp8k.jp" tvg-name="NHK BSP8K JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="FIFA World Cup 2026",NHK BSP8K JP
+https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
+#EXTINF:-1 tvg-id="nhk-bspg.jp" tvg-name="NHK BSPG JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="FIFA World Cup 2026",NHK BSPG JP
+https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 
 
 # ==================================================
