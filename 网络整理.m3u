@@ -1468,19 +1468,6 @@ http://live.nctv.top/douyu1.php?id=9401305
 
 
 
-# ==================================================
-#               FIFA WORLD CUP 2026
-# ==================================================
-
-
-# === 🇺🇸 US ===
-
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511
-#EXTINF:-1 tvg-id="WNJU-DT.us_locals1" tvg-name="Telemundo 1" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="FIFA World Cup 2026",Telemundo 1
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109764
-#EXTINF:-1 tvg-id="KVEA-DT.us_locals1" tvg-name="Telemundo 2" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="FIFA World Cup 2026",Telemundo 2
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/110009
 
 
 # ==================================================
