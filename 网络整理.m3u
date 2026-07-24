@@ -1475,66 +1475,12 @@ http://live.nctv.top/douyu1.php?id=9401305
 
 # === 🇺🇸 US ===
 
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K (Not 24/7)
-http://slh.kop.homes/knv4jf1npa/tfueqmjpjj/2075520
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511
 #EXTINF:-1 tvg-id="WNJU-DT.us_locals1" tvg-name="Telemundo 1" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="FIFA World Cup 2026",Telemundo 1
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109764
 #EXTINF:-1 tvg-id="KVEA-DT.us_locals1" tvg-name="Telemundo 2" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="FIFA World Cup 2026",Telemundo 2
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/110009
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-name="Universo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-universo-us.png?raw=true" group-title="FIFA World Cup 2026",Universo
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120328
-
-# === 🇨🇦 CA ===
-
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA 01
-https://idabest.danng.me/live/stream-966c958f-1bc4-480f-9bbf-1df6d85c0636/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA 02" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA 02
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119333
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA 03" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA 03
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119334
-
-# === 🇬🇧 UK ===
-
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC UHD UK (Not 24/7)" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/BBC_UHD.svg" group-title="FIFA World Cup 2026",BBC UHD UK (Not 24/7)
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120330
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC One UK 01
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120265
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK 02" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC One UK 02
-https://rebrand.ly/31fgcz4
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK 01" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK 01
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120268
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK 02" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK 02
-https://rebrand.ly/p89s5z8
-
-# === 🇫🇷 FR ===
-
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 4K FR (Not 24/7)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="FIFA World Cup 2026",M6 4K FR (Not 24/7)
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120338
-
-# === 🇩🇪 DE ===
-
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="FUSSBALL.TV 1 UHD DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Magenta_TV_2024.svg" group-title="FIFA World Cup 2026",FUSSBALL.TV 1 UHD DE
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120339
-
-# === 🇭🇰 HK ===
-
-#EXTINF:-1 tvg-id="Now.Sports.4K.616.hk" tvg-name="NOW Sports 616 4K HK (Not 24/7) 01" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="FIFA World Cup 2026",NOW Sports 616 4K HK (Not 24/7) 01
-https://idabest.danng.me/live/stream-ba8102c8-10b3-4b13-9b01-d1496ab598a2/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
-#EXTINF:-1 tvg-id="Now.Sports.4K.616.hk" tvg-name="NOW Sports 616 4K HK (Not 24/7) 02" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="FIFA World Cup 2026",NOW Sports 616 4K HK (Not 24/7) 02
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120336
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV HK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/viu-tv-hk.png?raw=true" group-title="FIFA World Cup 2026",ViuTV HK
-https://rebrand.ly/pveefn3
-
-# === 🇯🇵 JP ===
-
-#EXTINF:-1 tvg-id="nhk-bsp4k.jp" tvg-name="NHK BSP4K JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="FIFA World Cup 2026",NHK BSP4K JP
-https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
-#EXTINF:-1 tvg-id="nhk-bsp8k.jp" tvg-name="NHK BSP8K JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="FIFA World Cup 2026",NHK BSP8K JP
-https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
-#EXTINF:-1 tvg-id="nhk-bspg.jp" tvg-name="NHK BSPG JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="FIFA World Cup 2026",NHK BSPG JP
-https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 
 
 # ==================================================
@@ -1544,14 +1490,19 @@ https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 
 # === 🇺🇸 US ===
 
-#EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Clarity_4K.png" group-title="4K UHD",Clarity 4K
+#EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Clarity_4K.png" group-title="4K UHD",Clarity 4K
 https://pb-qyrvophnifz47.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qyrvophnifz47/51e90851-a1fe-45bf-bbe2-591b2bf91b9f/3.m3u8
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="4K UHD",FOX
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511
+#EXTINF:-1 tvg-id="WNJU-DT.us_locals1" tvg-name="Telemundo 1" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="4K UHD",Telemundo 1
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109764
+#EXTINF:-1 tvg-id="KVEA-DT.us_locals1" tvg-name="Telemundo 2" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="4K UHD",Telemundo 2
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/110009
 # === 🇨🇦 CA ===
 
-#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature 4K CA" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K CA
+#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature 4K CA" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K CA
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119322
 #EXTINF:-1 tvg-id="Sportsnet.4K.ca2" tvg-name="SportsNet 4K CA" tvg-logo="https://iptvboss.xyz/logos/Canada/SportsnetOntario4k.ca.png" group-title="4K UHD",SportsNet 4K CA
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119328
@@ -1559,28 +1510,52 @@ http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119328
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119329
 #EXTINF:-1 tvg-id="Stingray.Festival.4K.pl" tvg-name="Stingray Festival 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/stingray-festival-4k-es.png?raw=true" group-title="4K UHD",Stingray Festival 4K CA
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119331
-#EXTINF:-1 tvg-id="" tvg-name="Stingray NOW 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/stingray-now-4k-ca.png?raw=true" group-title="4K UHD",Stingray NOW 4K CA
+#EXTINF:-1 tvg-id="StingrayNow4k.ca" tvg-name="Stingray NOW 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/stingray-now-4k-ca.png?raw=true" group-title="4K UHD",Stingray NOW 4K CA
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119332
 #EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="4K UHD",TSN 4K CA
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119333
-
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="4K UHD",TSN 4K CA 01
+https://idabest.danng.me/live/stream-966c958f-1bc4-480f-9bbf-1df6d85c0636/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA 02" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="4K UHD",TSN 4K CA 02
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119333
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA 03" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="4K UHD",TSN 4K CA 03
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119334
 # === 🇬🇧 UK ===
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports Main Event UHD UK
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120398
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 UHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports F1 UHD UK
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120397
-#EXTINF:-1 tvg-id="Sky.Sports.Ultra.HD.1.uk" tvg-name="Sky Sports UHD 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports UHD 1 UK
+#EXTINF:-1 tvg-id="Sky.Sports.Ultra.HD.1.uk" tvg-name="Sky Sports 1 UHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports 1 UHD UK
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120395
-#EXTINF:-1 tvg-id="Sky.Sports.Ultra.HD.2.uk" tvg-name="Sky Sports UHD 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports UHD 2 UK
+#EXTINF:-1 tvg-id="Sky.Sports.Ultra.HD.2.uk" tvg-name="Sky Sports 2 UHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports 2 UHD UK
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120396
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.HD.uk" tvg-name="TNT Sports Ultimate UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true" group-title="4K UHD",TNT Sports Ultimate UK
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.HD.uk" tvg-name="TNT Sports Ultimate UHD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true" group-title="4K UHD",TNT Sports Ultimate UHD UK
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119906
+
+# === 🇳🇴 NO ===
+
+#EXTINF:-1 tvg-id="V.sport.ultra.HD.dk" tvg-name="V Sport Ultra HD NO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/norway/v-sport-ultrahd-no.png?raw=true" group-title="4K UHD",V Sport Ultra HD NO
+http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/35891
 
 # === 🇵🇱 PL ===
 
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-name="Eleven Sports 1 4K PL" tvg-logo="https://tv-pl-prod.yo-digital.com/prod/images/logos/445/250/b257b20a9965177744dda3311964f675.elevensports14k.PNG" group-title="4K UHD",Eleven Sports 1 4K PL
+http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/348127
 #EXTINF:-1 tvg-id="INULTRA.pl" tvg-name="INULTRA 4K PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/inultra-cz.png?raw=true" group-title="4K UHD",INULTRA 4K PL
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119321
+
+# === 🇷🇴 RO ===
+
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-name="Eurosport 4K RO" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/Eurosport_4K.svg" group-title="4K UHD",Eurosport 4K RO
+http://fomo.re/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/32818
+
+# === 🇯🇵 JP ===
+
+#EXTINF:-1 tvg-id="nhk-bsp4k.jp" tvg-name="NHK BSP4K JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="4K UHD",NHK BSP4K JP
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
+#EXTINF:-1 tvg-id="nhk-bsp8k.jp" tvg-name="NHK BSP8K JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K_2023_logo.svg" group-title="4K UHD",NHK BSP8K JP
+https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
 
 
 
