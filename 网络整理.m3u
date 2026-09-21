@@ -214,7 +214,7 @@ https://play3636.zdwafis.com/live/mosixmark.flv
 https://vdm6-ali.hrypl168.com/live/a6.flv
 #EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
 #EXT-X-UPDATED: 2026-09-21 07:21:22
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/IPTV-Center_logo/main/tv/CCTV1.png" group-title="IPTV-Center-Center",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/IPTV-Center_logo/main/tv/CCTV1.png" group-title="IPTV-Center",CCTV1
 http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txIPTV-Center&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/IPTV-Center_logo/main/tv/CCTV2.png" group-title="IPTV-Center",CCTV2
 http://222.214.208.34:59901/tsfile/live/0002_1.m3u8?key=txIPTV-Center&playlive=1&authid=0
