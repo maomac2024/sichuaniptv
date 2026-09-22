@@ -327,6 +327,284 @@ http://222.214.208.34:59901/tsfile/live/1022_1.m3u8?key=txIPTV-Center&playlive=1
 #EXTINF:-1 tvg-name="金鹰卡通2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/IPTV-Center_logo/main/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A2.png" group-title="IPTV-Center",金鹰卡通2
 http://222.214.208.34:59901/tsfile/live/1013_1.m3u8?key=txIPTV-Center&playlive=1&authid=0
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
+#EXTINF:-1 tvg-id="stream-973a506a-6df6-45a3-bf7e-8fef516e2a63" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="🇹🇼 台湾频道",愛爾達體育3台
+http://iptv.852851.xyz/l/ub5934TRfX6wRDExPZqB7-1V8WWIUy_sLVUYI-EOu-rpsrpLPi2TbpWsBI7-CSsu/index.m3u8
+#EXTINF:-1 tvg-id="stream-5e70f9d8-e375-4aa5-b9f0-54ea151c268f" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="🇹🇼 台湾频道",愛爾達體育2台
+http://iptv.852851.xyz/l/E1QgWQLwZCgM606cW284Iw_b5zvRHdFTtnMJbABM1pETz4WCcGiZhhkeqPLuVm9H/index.m3u8
+#EXTINF:-1 tvg-id="stream-d316be76-8afe-42d0-bc8c-16b69cd93474" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="🇹🇼 台湾频道",愛爾達體育1台
+http://iptv.852851.xyz/l/rhRtmrLcYUEdX9ShuLW9sVxDvbFkSG7ouIMGxKdjdnab0qFWA6LkGrvkYNfQAAxS/index.m3u8
+#EXTINF:-1 tvg-id="stream-b63c851f-ba32-4dfe-a766-5daf09d10cc0" tvg-name="纬来日本台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="🇹🇼 台湾频道",纬来日本台
+http://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
+#EXTINF:-1 tvg-id="stream-9d83d87f-2c8c-4f97-adbd-da9535dfd925" tvg-name="纬来电影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="🇹🇼 台湾频道",纬来电影台
+http://iptv.852851.xyz/l/8Plp8yjzzievw6XwcH8je1nUD6Txyna1de9Da3il7gCkQ0rT-Oovs4KPW8zYT6Lb/index.m3u8
+#EXTINF:-1 tvg-id="stream-6c5bc016-5cee-4681-8754-099956be9cd4" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🇹🇼 台湾频道",龍華電影台
+http://iptv.852851.xyz/l/XXZA5ypYXqmTCuMaAl7OuQ1NwPedxL_d7aZ3-9hbLX3eBLLQwPxCUE2Pz_shkbZG/index.m3u8
+#EXTINF:-1 tvg-id="stream-1e5eee53-be78-4616-97e0-0a5be62d838b" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="🇹🇼 台湾频道",龍華經典台
+http://iptv.852851.xyz/l/6eUypNYu2YblSpUPnCtWar6KgX8Sgph-xRfpozemHBqb0Xufocj39BqNfmQJgG2Z/index.m3u8
+#EXTINF:-1 tvg-id="stream-2a1f4b49-9255-4345-aef3-297d1f38535b" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="🇹🇼 台湾频道",龍華偶像台
+http://iptv.852851.xyz/l/f3xZXFoiKhren-ELehXJoELnZzPo9_qbX2H-1iej9g1-7nFzIf4scHLd-a0Y-fH6/index.m3u8
+#EXTINF:-1 tvg-id="stream-bd34c378-a0f9-402c-b754-29b200167a95" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="🇹🇼 台湾频道",龍華日韓台
+http://iptv.852851.xyz/l/c3U_EAF37PNZmFEr2wUuc9eyHsGR04dSUSnHg4oZ2SZt5NJPmfR1FkkxEoMbD3aU/index.m3u8
+#EXTINF:-1 tvg-id="stream-02379dc5-26f3-4efa-b108-46e33e40794a" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="🇹🇼 台湾频道",龍華戲劇台
+http://iptv.852851.xyz/l/2WiZylUU73GaTUoXf46D1ahy4cdAJs2TO6Lg5phcH03kjLvNkpfqaoHvM5IjrFk0/index.m3u8
+#EXTINF:-1 tvg-id="stream-93997fcb-9246-4ae6-b2a2-6d7b5c569696" tvg-name="龍華洋片台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="🇹🇼 台湾频道",龍華洋片台
+http://iptv.852851.xyz/l/IWORhpp_fgwFH4qwDcYMH3265N6HdtIL-QDWcONdgjAn8dRlE87DTjB9OY5Sv4CX/index.m3u8
+#EXTINF:-1 tvg-id="stream-0c420f0d-ebde-4505-a0e8-30399933473f" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="🇹🇼 台湾频道",龍華卡通台
+http://iptv.852851.xyz/l/rLtQvxclO2wPgLZa8eWlU6mtV3XSai-n12-ezaw5VYS1uAza_ZGS38v-O-ORXNAx/index.m3u8
+#EXTINF:-1 tvg-id="stream-da2028a3-f5ca-40c1-af3c-9c19abfe6151" tvg-name="年代新闻" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21080065d41_0hFz.png" group-title="🇹🇼 台湾频道",年代新闻
+http://iptv.852851.xyz/l/9bz5xzBj4G7z-ceB4nZLaj2C5vtUJXuilblpQHN0JCC-OFYfmqlc0f6Pn6J7lTiz/play
+#EXTINF:-1 tvg-id="stream-8204add3-3808-4ece-9cca-562c4113b30d" tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="🇹🇼 台湾频道",纬来体育台
+http://iptv.852851.xyz/l/z16nYDtf6PmdMX3WGGlZ47rRJ2MK_RaPmZcKEmQkV2gJDgSyV3w2_L7w7lM72lOt/index.m3u8
+#EXTINF:-1 tvg-id="stream-17b819fc-3bd3-4a7d-971b-3a472db406be" tvg-name="龍祥時代" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="🇹🇼 台湾频道",龍祥時代
+http://iptv.852851.xyz/l/XRlASWlsBnLfbaJyi6k49gM5ekLHtOETXSyySfSZX960HLxr3RJm_F0_wc5C7-Xo/index.m3u8
+#EXTINF:-1 tvg-id="stream-2d84d960-5a17-4e45-a822-4b3ab48913ab" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/judy-gotv/TVlogo/main/img/%E6%84%9B%E7%88%BE%E9%81%94%E9%AB%94%E8%82%B24%E5%8F%B0.jpg" group-title="🇹🇼 台湾频道",愛爾達體育4台
+http://iptv.852851.xyz/l/d6Jp9Lu3Msuq2pJhKjrppJ097hAL2ndNPrem0zyKGkZyr_Pk9SpYuCgDVDWgM0E6/index.m3u8
+#EXTINF:-1 tvg-id="stream-27a4c4e7-8902-4730-baa3-0384b71fe801" tvg-name="中天新闻台" group-title="🇹🇼 台湾频道",中天新闻台
+http://iptv.852851.xyz/l/wzGFHFLRljHDiQGT3-GZ9DLOCrW4b5sYHJWy2nWLXDAJgAPxEqiY38-wysTTSetg/index.m3u8
+#EXTINF:-1 tvg-id="stream-b21cdd96-a52d-43b2-aab2-b964eb83de9a" tvg-name="中天综合台" group-title="🇹🇼 台湾频道",中天综合台
+http://iptv.852851.xyz/l/kPU1eljySDZ3kRJCmAZ7kaEAHFRrR_qd66rPqYgGJVYNEn3yYkGku_x7oo3OUy1j/index.m3u8
+#EXTINF:-1 tvg-id="stream-9b821199-65ed-4e9c-8be8-acff5ec9dc54" tvg-name="中天亚洲台" group-title="🇹🇼 台湾频道",中天亚洲台
+http://iptv.852851.xyz/l/r_QxmqwKNz9ffCt96KpyPkUBzre3p7cw0_2KGlrS6NDnvlSCXQavnU60Y00VDutO/index.m3u8
+#EXTINF:-1 tvg-id="stream-b61f8aca-c396-4636-add3-24993273d8d1" tvg-name="民視綜藝台" group-title="🇹🇼 台湾频道",民視綜藝台
+http://iptv.852851.xyz/l/7VpniuXEpcGLoNmgLgXEJWObS8AxzTQKwcnj9NIML82024Kpwc2HiCHYq9bDBxQB/index.m3u8
+#EXTINF:-1 tvg-id="stream-52fe2718-e406-474e-a0a0-34f031a71d55" tvg-name="民視第一台" group-title="🇹🇼 台湾频道",民視第一台
+http://iptv.852851.xyz/l/O-Ry2weXKcWqAXJz7sf_L4vLMJcNmHRTLqtKvjZgObOpOOWTvJvhjihbmNbv6egx/index.m3u8
+#EXTINF:-1 tvg-id="stream-8c7266b1-9de2-4d16-bbf6-967681a03b1f" tvg-name="民視台灣台" group-title="🇹🇼 台湾频道",民視台灣台
+http://iptv.852851.xyz/l/ep-im-GfRgNdnrHS2W5--LRiklCazRs_IdiA0G74GtEyvfPvKffE92C8ZnE1YdUV/index.m3u8
+#EXTINF:-1 tvg-id="stream-46a7352c-7b7c-418e-b291-f6a03f063349" tvg-name="民視" group-title="🇹🇼 台湾频道",民視
+http://iptv.852851.xyz/l/1BYUE36Q_WelPf804uc1D2MLx0MtqR6xG87opxmyJn_I6rMpPdwroEejvFn_JEjl/index.m3u8
+#EXTINF:-1 tvg-id="stream-e8fff108-28fb-47fc-b568-6c8e0b66586b" tvg-name="大愛電視" group-title="🇹🇼 台湾频道",大愛電視
+http://iptv.852851.xyz/l/nGakbaFo0abWdX1xZ-FvqrivbK-UhFYqZyTt2tin7yC84QvQgWlOnhY4r1wZODIL/index.m3u8
+#EXTINF:-1 tvg-id="stream-c895e226-c9f9-46c5-bc9c-f489723719a1" tvg-name="中視" group-title="🇹🇼 台湾频道",中視
+http://iptv.852851.xyz/l/7G5b-AOtPsVeV1WAxuRtXppJJHCkjk_3uhq2tHGrIFxcRItJhgvrp2mzRcJFlS2D/index.m3u8
+#EXTINF:-1 tvg-id="stream-a0127266-ebd1-4f79-9b0c-ccbfa21e5694" tvg-name="華視" group-title="🇹🇼 台湾频道",華視
+http://iptv.852851.xyz/l/NtcBvnuf9u99CJZfo3MzAzM-Xgk3ik7nK-UkiRfpPF3HAQMhHCzDuLHZ92jRwa_j/index.m3u8
+#EXTINF:-1 tvg-id="stream-f14e7341-50dd-47af-b12b-d3685f7baec8" tvg-name="三立綜合台" group-title="🇹🇼 台湾频道",三立綜合台
+http://iptv.852851.xyz/l/tV9Z3p9TRGALF8QV4SOH9-Vbumy3tHomHvzlyWV3sXrNkVngZsj0H0k50KOVeM8-/index.m3u8
+#EXTINF:-1 tvg-id="stream-b9a351eb-60b5-433f-9067-c5fa6d6c60af" tvg-name="客家電視台" group-title="🇹🇼 台湾频道",客家電視台
+http://iptv.852851.xyz/l/wFN0ZITMu9W6dhYokGyMwrjmuo_FB5Yi27cc7D3pSLEDY65toLd9BKcDBJcaXs83/index.m3u8
+#EXTINF:-1 tvg-id="stream-0d3e6bfc-a5d3-48eb-b9e3-4c5efa13733b" tvg-name="八大綜藝台" group-title="🇹🇼 台湾频道",八大綜藝台
+http://iptv.852851.xyz/l/gnG0LC5n7Sk8gMDGjSAI7gZAMv5dz-bAR-N9lUUALjDvFsXdWveM2btig6DDyRDI/index.m3u8
+#EXTINF:-1 tvg-id="stream-8c0d47b6-4a6d-4d8e-8d55-194ab20050c4" tvg-name="TVBS精采台" group-title="🇹🇼 台湾频道",TVBS精采台
+http://iptv.852851.xyz/l/osdgd3zYcDIpVWjR5P_WZAdKX2B1fmv2DGkVUrLjpiXgcZy9HRoWwoXePgvLV8ha/index.m3u8
+#EXTINF:-1 tvg-id="stream-4a392adb-1988-4b7a-ae2d-1abe085f55af" tvg-name="INULTRA" group-title="🇹🇼 台湾频道",INULTRA
+http://iptv.852851.xyz/l/Kd0qCbpf1IdSGRO5yZcp-AZSJxu4Pv0tAFVfZCjbVnFp2UXvL9LfqZLZmnIW-68E/index.m3u8
+#EXTINF:-1 tvg-id="stream-a998b781-404e-4251-beb3-273461a40ee0" tvg-name="靖天綜合台" group-title="🇹🇼 台湾频道",靖天綜合台
+http://iptv.852851.xyz/l/p4yrYFTtv_cQ6YsTCeaskOysGa9ur037HZ4zQS9Dk4m3RAuz7_cJ2zAAufYVD9d2/index.m3u8
+#EXTINF:-1 tvg-id="stream-2faad257-3e57-4b2d-9bce-f5e107311a2a" tvg-name="靖天日本台" group-title="🇹🇼 台湾频道",靖天日本台
+http://iptv.852851.xyz/l/bYxtCCR2oCYvCPHR-A9uwTKshkiEh1JCVVxR4OYyJq89crTzgtiaukfSgbPFTUPp/index.m3u8
+#EXTINF:-1 tvg-id="stream-7ae2dc64-73a1-4aec-adf6-bf881233e737" tvg-name="新唐人亞太台" group-title="🇹🇼 台湾频道",新唐人亞太台
+http://iptv.852851.xyz/l/sskQ0LCx01T5GMwA8-F7NZg8JTLZSKUVUyGRbgwTHsaXfKBghRtt3xWHuKHioakY/index.m3u8
+#EXTINF:-1 tvg-id="stream-2fb04e7d-363d-4e91-bcf5-e52c5a229505" tvg-name="ARIRANG阿里郎頻道" group-title="🇹🇼 台湾频道",ARIRANG阿里郎頻道
+http://iptv.852851.xyz/l/ZXU9LneovZrT3kqeB7LztKNx6TPAo-5FIF_e1JJZZpVfaRLOGrqBMIZ5EYwQPGBw/index.m3u8
+#EXTINF:-1 tvg-id="stream-7cfbaaf5-ce9f-4b7e-8307-acf631153c1c" tvg-name="Global Trekker" group-title="🇹🇼 台湾频道",Global Trekker
+http://iptv.852851.xyz/l/E0rso_TmZrb6dCfnwNKLzWKsY_uCGtCHeTvcYu8ZQgAHmRIp3WZas2KcfJko6H4Z/index.m3u8
+#EXTINF:-1 tvg-id="stream-78429ab0-8d4a-4873-b708-7f17208f50d0" tvg-name="東森購物二台" group-title="🇹🇼 台湾频道",東森購物二台
+http://iptv.852851.xyz/l/43OrtEiBLN7P8v5cdBeJbXwEZNGg73itZFTnCnn_YmsUFi7nWf8sfP_zaZB0ZEB-/index.m3u8
+#EXTINF:-1 tvg-id="stream-46929c3d-aeef-49fb-a9b1-de14cd39208e" tvg-name="LiveABC互動英語頻道" group-title="🇹🇼 台湾频道",LiveABC互動英語頻道
+http://iptv.852851.xyz/l/QS7RjgKOtgTIzEGdn8WPmJ3_XG2iQYzqYXVVNmyLnW4tsFi97B1TbN9O5RvlsYV1/index.m3u8
+#EXTINF:-1 tvg-id="stream-542b2806-cb7d-4816-9181-899ee51f0246" tvg-name="達文西頻道" group-title="🇹🇼 台湾频道",達文西頻道
+http://iptv.852851.xyz/l/B52sfvP7VJ-v0ZwvVBvGM9yX78nl88YEQo1TThTGsejWl9i13yXKEt_Tiy4XV8q_/index.m3u8
+#EXTINF:-1 tvg-id="stream-35d0b34b-fa17-44e6-b33b-96b1543b5e34" tvg-name="Nick Jr. 兒童頻道" group-title="🇹🇼 台湾频道",Nick Jr. 兒童頻道
+http://iptv.852851.xyz/l/obhf3Ec8gOnbhCJJ6LWAmGmlO4gnOrrpcGbekRoGV2CFoVjTnmJng9iL4gAfFlYH/index.m3u8
+#EXTINF:-1 tvg-id="stream-ae9b22e4-0d7d-44e0-a9d8-f3fecab52d2f" tvg-name="尼克兒童頻道" group-title="🇹🇼 台湾频道",尼克兒童頻道
+http://iptv.852851.xyz/l/CF9U0z-GuX6GQACIpSnYZngKBwNCVmr7X00E2sXFA6TmPsTfObfRdzyk6-ExDmQt/index.m3u8
+#EXTINF:-1 tvg-id="stream-475e5b17-e86a-4d0b-b979-d16acd3c1b13" tvg-name="DreamWorks 夢工廠動畫" group-title="🇹🇼 台湾频道",DreamWorks 夢工廠動畫
+http://iptv.852851.xyz/l/zLMm6YajJ7rjJ7ShIivwVX_sQIKXNo3O3PhF455ikPHQTJXzN4mHMI7Lo37qZX-x/index.m3u8
+#EXTINF:-1 tvg-id="stream-55708122-16c4-4296-b876-d6d6f9bbfc65" tvg-name="靖天卡通台" group-title="🇹🇼 台湾频道",靖天卡通台
+http://iptv.852851.xyz/l/-r2gysCEgf6PTfxYQkqXvpUfZxV3-Gs98_UMZ-z_oEnTt6q8s3YflCGFIogUj2jc/index.m3u8
+#EXTINF:-1 tvg-id="stream-4b3a7414-e995-4d5e-89b6-4f6f463f4495" tvg-name="靖洋卡通Nice Bingo" group-title="🇹🇼 台湾频道",靖洋卡通Nice Bingo
+http://iptv.852851.xyz/l/Wpy0NCoxPJf_wKdyTwv19xVd0lQ5KEO08Q9tP0eqr33J3qZGPRhxWSbpaEziZLkn/index.m3u8
+#EXTINF:-1 tvg-id="stream-952adef9-0658-41a4-a991-09f0e625e54a" tvg-name="MOMO親子台" group-title="🇹🇼 台湾频道",MOMO親子台
+http://iptv.852851.xyz/l/1824gL8wPEnetTaTyo_FpaScplYICT2J3WPD5vzpAh6SCgZxkcDyuELnzVyGKGHK/index.m3u8
+#EXTINF:-1 tvg-id="stream-63c1f12c-596e-4b3e-93c8-a4a93f1ea80e" tvg-name="東森購物一台" group-title="🇹🇼 台湾频道",東森購物一台
+http://iptv.852851.xyz/l/7uB9nEuoca2A4DXV2CVG_aywS363heoVbfEiG8i4BwNk2d3t1NVmtnhQKDnVUF6w/index.m3u8
+#EXTINF:-1 tvg-id="stream-7eb143aa-d141-43ca-bd07-b259b66197fc" tvg-name="鏡電視新聞台" group-title="🇹🇼 台湾频道",鏡電視新聞台
+http://iptv.852851.xyz/l/8ewCokm6JLGDsiMnJKmqAoVIvl1lJxqoKzCKsHW4VeJWVPSvjajH7SOdkl3T4HwN/index.m3u8
+#EXTINF:-1 tvg-id="stream-8fa84890-7346-41d7-9bd7-870d74702aa3" tvg-name="東森新聞台" group-title="🇹🇼 台湾频道",東森新聞台
+http://iptv.852851.xyz/l/J0sgmyQn0PCVd_EpETR9ub-7s7dJVNyXn6Lie-76oBekv_MunC6giEyWTFxRWYAf/index.m3u8
+#EXTINF:-1 tvg-id="stream-d5988b3a-a595-4b4e-a144-564b74dd1c0f" tvg-name="華視新聞" group-title="🇹🇼 台湾频道",華視新聞
+http://iptv.852851.xyz/l/1DRBRurrY1waIA_-1Ev34lFwbae0KwlwbJf9FXLsWvP7yoc4Gm7nTqK50FVTZSsg/index.m3u8
+#EXTINF:-1 tvg-id="stream-3e887b93-c066-4736-86a6-8516a3df2df9" tvg-name="民視新聞台" group-title="🇹🇼 台湾频道",民視新聞台
+http://iptv.852851.xyz/l/4cqMSyJn6DYGUGoXnOYZo_6eZg8PFZBgeQYBvZdbAe63DHVtt8O03B7ZLuEiga8s/index.m3u8
+#EXTINF:-1 tvg-id="stream-73087118-c978-40c8-ac70-8fa37560d244" tvg-name="三立新聞iNEWS" group-title="🇹🇼 台湾频道",三立新聞iNEWS
+http://iptv.852851.xyz/l/BLXDlI2fxEo_O83w_zzwUcFc5JmimsRd-HuVlsIXIlG2hsnktQWT_3lxGBy-MoxY/index.m3u8
+#EXTINF:-1 tvg-id="stream-ca26a851-4311-4f69-946b-3873073fda47" tvg-name="東森財經新聞台" group-title="🇹🇼 台湾频道",東森財經新聞台
+http://iptv.852851.xyz/l/fZqdmDGPZNItGndCjYcngfwdhAPfI58QSk7wFXkP_DTILQmvhggqRoCReNFyWDpy/index.m3u8
+#EXTINF:-1 tvg-id="stream-682047cf-528c-41db-80aa-755361a540c7" tvg-name="中視新聞" group-title="🇹🇼 台湾频道",中視新聞
+http://iptv.852851.xyz/l/cND-OVwDBFXqeAv-Ll44jSLzMi6bD5ccraD7FN2Nt5vqQy3QrS3z8lsYVna8lOZz/index.m3u8
+#EXTINF:-1 tvg-id="stream-70c6e3da-ddbc-438b-8814-de3511acab1a" tvg-name="Bloomberg TV" group-title="🇹🇼 台湾频道",Bloomberg TV
+http://iptv.852851.xyz/l/8KbHxtcfSxyPj6VRJpOY9oY0sa2NRuoIrqmyAbeI8ntpqoxMFX6U15xybbDn_45M/index.m3u8
+#EXTINF:-1 tvg-id="stream-bed2a46e-1e72-44cd-8b8b-4ad6474a0cd2" tvg-name="寰宇新聞台" group-title="🇹🇼 台湾频道",寰宇新聞台
+http://iptv.852851.xyz/l/qJNrMZawVI8X-gwB2Al6vlvrb1trUo8bWfnDZMC9b6euMvSU9krOzBt6_jMpnCgO/index.m3u8
+#EXTINF:-1 tvg-id="stream-07abb6a4-b9b4-4b2c-8509-a6efe36343ff" tvg-name="寰宇新聞台灣台" group-title="🇹🇼 台湾频道",寰宇新聞台灣台
+http://iptv.852851.xyz/l/IarZogI9fGBC4s4Q1iqS1f0ztsiCWnAbVleiR1cBNq9cfHzqgadrNMu9hmttzs_G/index.m3u8
+#EXTINF:-1 tvg-id="stream-8639bf8a-4aa0-43dd-9316-f3dbc6fbb702" tvg-name="SBN全球財經台" group-title="🇹🇼 台湾频道",SBN全球財經台
+http://iptv.852851.xyz/l/kLh17OQ0SXAtYLfQKOSOE-zY_8VTrHpgDZ_eXHYqVsJ-dOkbui_ATUUN7IHNoHtZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-3331f090-66d7-4edb-8cbd-1d1a3e0657e7" tvg-name="東森購物四台" group-title="🇹🇼 台湾频道",東森購物四台
+http://iptv.852851.xyz/l/RJ2ThWKmw6OaGJkFaxgyhiXU7un4mtE6rPkD7IErj0FJ11hrNV5iMkqF3QNTG0JD/index.m3u8
+#EXTINF:-1 tvg-id="stream-a8745b78-037a-4d1f-9034-b468f0856e25" tvg-name="豬哥亮歌廳秀" group-title="🇹🇼 台湾频道",豬哥亮歌廳秀
+http://iptv.852851.xyz/l/2CCwJk9bu2Z_xP93-RuXU-EK-59v1dLWUFkpR-gEaXNffpAHk1PQU9r94MeIAnOu/index.m3u8
+#EXTINF:-1 tvg-id="stream-01474067-6128-4718-b846-9141109d716c" tvg-name="靖天育樂台" group-title="🇹🇼 台湾频道",靖天育樂台
+http://iptv.852851.xyz/l/fgEJDUZAUQVjwQZfuhMKk62bYgppZZEfwmZQ6tM1XDDSZ6U63nQ_YJIAZZWX1kox/index.m3u8
+#EXTINF:-1 tvg-id="stream-fedf2fb7-3d1d-41f3-bb53-46523abcfb00" tvg-name="KLT-靖天國際台" group-title="🇹🇼 台湾频道",KLT-靖天國際台
+http://iptv.852851.xyz/l/sa4aOFk3SrUyH-aHAxzmpKbz3EcfcZb9cM3Riez7BtrJ1jLSf5uJ3GedHLRHopcK/index.m3u8
+#EXTINF:-1 tvg-id="stream-bfd88b48-1308-47af-a505-b26538800ce0" tvg-name="Nice TV 靖天歡樂台" group-title="🇹🇼 台湾频道",Nice TV 靖天歡樂台
+http://iptv.852851.xyz/l/zE-mhwRuGgMxVvav333kzPIcumMU66K5AzemnhOcqHFEId61Ty_VHcyXAbOETS54/index.m3u8
+#EXTINF:-1 tvg-id="stream-6d54eb1a-53e9-4d04-919e-24a5b821cc56" tvg-name="靖天資訊台" group-title="🇹🇼 台湾频道",靖天資訊台
+http://iptv.852851.xyz/l/XTHWBY2Tg89nztvvUz-h6nL0Z0KZsjV8BLo5wZCCyCKuquGrXtoUFQ0wMdt-5jDK/index.m3u8
+#EXTINF:-1 tvg-id="stream-96cc6d4e-2a1f-4dc7-8c1c-91797c251fcc" tvg-name="韓國娛樂台 KMTV" group-title="🇹🇼 台湾频道",韓國娛樂台 KMTV
+http://iptv.852851.xyz/l/lTp2Wk3bUiwRlInwGJ2Y7L7Xccv7R71emLP8P_XJ5bDj5UOBntVyBAHCYVrK4dvP/index.m3u8
+#EXTINF:-1 tvg-id="stream-83868fbd-6d0a-4681-b5c1-c060080eac67" tvg-name="ROCK Entertainment" group-title="🇹🇼 台湾频道",ROCK Entertainment
+http://iptv.852851.xyz/l/kk6TcgGCmBxj0c3h1r1Q48dsjccjueC473qatqKP6yQxCSdeMjyHGLLnY-gGK6lm/index.m3u8
+#EXTINF:-1 tvg-id="stream-e72044f6-3482-4c44-9f3b-a717739fec08" tvg-name="Lifetime 娛樂頻道" group-title="🇹🇼 台湾频道",Lifetime 娛樂頻道
+http://iptv.852851.xyz/l/S4SL76C3TxNXDFvpm7D8f0I7kQIZWsXZheYy2FeLoEcbhKg-HM8JYZszQrBbfiJi/index.m3u8
+#EXTINF:-1 tvg-id="stream-56a0a03c-9098-4d26-a556-388fd297422a" tvg-name="電影原聲台CMusic" group-title="🇹🇼 台湾频道",電影原聲台CMusic
+http://iptv.852851.xyz/l/L_2wntmwldJCq00FWZmxsk36Gw0tLllK_p4vr_znK9FCsuak0p1ISIO7JaiWfhG5/index.m3u8
+#EXTINF:-1 tvg-id="stream-dae289be-b3df-467d-a55b-31d05f1c90c0" tvg-name="TRACE Urban" group-title="🇹🇼 台湾频道",TRACE Urban
+http://iptv.852851.xyz/l/mVmsV8FoEaupWuUQXFyS2C2jRhOSBsizWHjl2Yer5X81QWt714ofHwXT293Bu86S/index.m3u8
+#EXTINF:-1 tvg-id="stream-7f01cf25-fbe7-4a4d-82f9-884a7ec957d0" tvg-name="Mezzo Live HD" group-title="🇹🇼 台湾频道",Mezzo Live HD
+http://iptv.852851.xyz/l/A5AZw-E0cPkKH-RpUuDocMhYjI4byP-WidobDvDNSTOBIuR57wgtgdsHLaMSYgml/index.m3u8
+#EXTINF:-1 tvg-id="stream-50ab3631-56cd-48f4-9b74-d6cbe689da3b" tvg-name="CLASSICA 古典樂" group-title="🇹🇼 台湾频道",CLASSICA 古典樂
+http://iptv.852851.xyz/l/H4nIMXjIBf6mbozWvVXmSSmexlKg3eRjVa1UAfCgnW6RXlUp9mPtK53jSGAkbfcA/index.m3u8
+#EXTINF:-1 tvg-id="stream-57ac1ec4-0a10-4df8-a3c5-35ac645c11d3" tvg-name="東森購物三台" group-title="🇹🇼 台湾频道",東森購物三台
+http://iptv.852851.xyz/l/_YGRQnQiTnn4ZUKCAC6TfMzn-9shKBMpALm5v7U6EMWCcnQwxE0xWZ6Tc9zYwb5v/index.m3u8
+#EXTINF:-1 tvg-id="stream-743b9b88-c861-4efe-a1b2-a54ce74014f3" tvg-name="TRACE Sport Stars" group-title="🇹🇼 台湾频道",TRACE Sport Stars
+http://iptv.852851.xyz/l/gn9nTu_9vHNDr8YKahtl2NM2zBnDUVfhAPhtyyf_ys6L5wFsdffGJsZhUoIZrzJP/index.m3u8
+#EXTINF:-1 tvg-id="stream-83215db9-a435-4770-b49b-df0ec186381d" tvg-name="智林體育台" group-title="🇹🇼 台湾频道",智林體育台
+http://iptv.852851.xyz/l/KUGHZUDPyuC5CIve3ytp6HqtRofgbF3c8-e6sl9q9BQCdmEmzgtxAfAx1lqbuxm7/index.m3u8
+#EXTINF:-1 tvg-id="stream-2f71d559-9db9-4975-9261-1c0ae220e21b" tvg-name="時尚運動X" group-title="🇹🇼 台湾频道",時尚運動X
+http://iptv.852851.xyz/l/3Cznq9EPfSmk9AvhrlG71dMvU2NeKPvq0UNDTTG5zLnpCqUul2J3kXxjqRwHetJg/index.m3u8
+#EXTINF:-1 tvg-id="stream-5d503bb2-63f5-44dc-b7fd-bfa67a079531" tvg-name="車迷TV" group-title="🇹🇼 台湾频道",車迷TV
+http://iptv.852851.xyz/l/UCHvMVP9xV4q7ElC3IAvahG37swuCmac_bzgV_r4sPDutbyPx0hWilWX7_SpDKr5/index.m3u8
+#EXTINF:-1 tvg-id="stream-281190a1-39fb-4d51-9c61-0babe71422ea" tvg-name="GINX Esports TV" group-title="🇹🇼 台湾频道",GINX Esports TV
+http://iptv.852851.xyz/l/gWPrn-3FweQmob4n90XdmxrpCqmqKtwyhjJkZFah_DUJKlLJlL7uk1ll8ZobWmAb/index.m3u8
+#EXTINF:-1 tvg-id="stream-5ddd020c-0452-49fe-9a99-ccd75908b34e" tvg-name="Pet Club TV" group-title="🇹🇼 台湾频道",Pet Club TV
+http://iptv.852851.xyz/l/K852NWxOvoQNrCAYy9fvVloKDdN1eYvaH4XxTHnZQu0WdN6zoiD5pzG78PC0kB6U/index.m3u8
+#EXTINF:-1 tvg-id="stream-35d6c336-18b9-49eb-8fe7-f71ff0627f68" tvg-name="民視旅遊台" group-title="🇹🇼 台湾频道",民視旅遊台
+http://iptv.852851.xyz/l/fJ93M9VbACu1SOBlduv3ZzQAcGDocy62S2avqzrJOz8k-xKS-x4Xr4yH8lhOSJSP/index.m3u8
+#EXTINF:-1 tvg-id="stream-a660f8b0-a9f4-47d8-9513-3fae91434832" tvg-name="滾動力rollor" group-title="🇹🇼 台湾频道",滾動力rollor
+http://iptv.852851.xyz/l/IVfP3OPhg6nVTC5jNCSi9hQG6f9CxESof2joZeZAvaAZUfR98W1uiiS_PqR_E-hx/index.m3u8
+#EXTINF:-1 tvg-id="stream-62dd10ee-f646-4413-8210-baf60810c20e" tvg-name="亞洲旅遊台" group-title="🇹🇼 台湾频道",亞洲旅遊台
+http://iptv.852851.xyz/l/KP5F_iWilIfj3-ErrEGO4IDG9e8B3QKKGFHl_V4IGRbUq-7q3gGexlvCO3PALR4P/index.m3u8
+#EXTINF:-1 tvg-id="stream-555f16a9-ed8d-4f78-a507-edb8f46546e5" tvg-name="fun探索娛樂台" group-title="🇹🇼 台湾频道",fun探索娛樂台
+http://iptv.852851.xyz/l/TG25a5wlz8s_dgXDbxDEP9KKjhWnSK1mjIuPYWxZKzONYUkPr6ynofebq0SeD6TY/index.m3u8
+#EXTINF:-1 tvg-id="stream-86484fd2-8088-4aa9-9a06-62a6f11257e0" tvg-name="Love Nature" group-title="🇹🇼 台湾频道",Love Nature
+http://iptv.852851.xyz/l/pzhrXNDS8P9bVO1kLob0nOgOxwT7i2PtXKEbi5bIGBk0d80w903PcMGEa__PmhVG/index.m3u8
+#EXTINF:-1 tvg-id="stream-cbc3b353-281e-4c13-ba82-3cad997a2bc9" tvg-name="History 歷史頻道" group-title="🇹🇼 台湾频道",History 歷史頻道
+http://iptv.852851.xyz/l/YjCJ8ICGj-KwGJ3yZXicKjNsZRVIMMiTC9dHB7j9PzNWWQSnnn1jjXrwnOFRXwox/index.m3u8
+#EXTINF:-1 tvg-id="stream-de87d35e-41e2-4d90-8d51-6533b42a5986" tvg-name="愛爾達生活旅遊台" group-title="🇹🇼 台湾频道",愛爾達生活旅遊台
+http://iptv.852851.xyz/l/g1G4Dusmlc-UPKZV2oTsD4mthtOnwKVNR59qZwZCJvspd5qggU05OFcanX6byakZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-c8152458-0f8f-4ea1-bca9-3665772b12f8" tvg-name="LUXE TV Channel" group-title="🇹🇼 台湾频道",LUXE TV Channel
+http://iptv.852851.xyz/l/DwuQFuaqWMQFm7xL5L4CTgSWwpCYHzE8V5vAXnncGGHp-5eJoe_llxxtN9f8z1hr/index.m3u8
+#EXTINF:-1 tvg-id="stream-6086c618-c021-42b2-a26b-d80a16f1d151" tvg-name="TV5MONDE STYLE HD 生活時尚" group-title="🇹🇼 台湾频道",TV5MONDE STYLE HD 生活時尚
+http://iptv.852851.xyz/l/7aq1uv_NCs9RiRXKhZf7LKKZWHjXtzun_e8ZQjiVnqJXXsn9eYTVOcL1vPEjNW4-/index.m3u8
+#EXTINF:-1 tvg-id="stream-55592efd-509b-4e56-b0f6-8e0ec0755237" tvg-name="公視戲劇" group-title="🇹🇼 台湾频道",公視戲劇
+http://iptv.852851.xyz/l/2uVKNkxPY2Miguqg349CEE64eyVOmjK2CyIqhhW2_dqNO1wFq8W9t0dvmeOQGe2h/index.m3u8
+#EXTINF:-1 tvg-id="stream-4bd90b18-5f5c-46ea-9f78-d1f222e125c7" tvg-name="民視影劇台" group-title="🇹🇼 台湾频道",民視影劇台
+http://iptv.852851.xyz/l/33pPGH_IgR0amQIRE-RIfNrT8vp7466685bzmSpBG4erczG9cReDc7pXbKudIJNi/index.m3u8
+#EXTINF:-1 tvg-id="stream-ab480917-7cb2-4f6b-9a28-c1e0dbcb15e2" tvg-name="HITS頻道" group-title="🇹🇼 台湾频道",HITS頻道
+http://iptv.852851.xyz/l/e0zcER3RPmvn96eHiuJ7ZhUHcquVdqDHNA8-x9Thvno2vx63aSQWt9UcW1CtPlu6/index.m3u8
+#EXTINF:-1 tvg-id="stream-b85896e0-d071-4f2f-95ba-47f2e2e0929d" tvg-name="八大精彩台" group-title="🇹🇼 台湾频道",八大精彩台
+http://iptv.852851.xyz/l/A03ysHDb7mUxWyRxHoBGq84qgPwU-mm38EW8X2T0C0sWAHoe-g5ItJqrpCocAvsG/index.m3u8
+#EXTINF:-1 tvg-id="stream-aea72510-a455-4b48-a10f-c1c8b9f7704c" tvg-name="靖天戲劇台" group-title="🇹🇼 台湾频道",靖天戲劇台
+http://iptv.852851.xyz/l/tsNwStQLqih8hh1ay5E2ReXAvvGIW-wzks3nB5zMpT7ePvlliRm7ScwOZz49h-sH/index.m3u8
+#EXTINF:-1 tvg-id="stream-634b2bc5-ce08-4ef5-b969-dc48a44db5b4" tvg-name="靖洋戲劇台" group-title="🇹🇼 台湾频道",靖洋戲劇台
+http://iptv.852851.xyz/l/OJFDrLm981a9HC7ty75ZtiCd9bcxGe7W-s0yl4NrlYrmw7pTB5y1oVSdGl_KfXEC/index.m3u8
+#EXTINF:-1 tvg-id="stream-0ebc0fc1-ec9a-40d0-8317-3bee66b3dbea" tvg-name="CI 罪案偵查頻道" group-title="🇹🇼 台湾频道",CI 罪案偵查頻道
+http://iptv.852851.xyz/l/OoDObo_8qF5MQ_r1HUk6iXusQi79bYtlLMrn37QqvQZ-ftK0mO1tJK-4YsDgCHiS/index.m3u8
+#EXTINF:-1 tvg-id="stream-48bfdef7-f0b9-4607-86f7-4e2fe303e05f" tvg-name="視納華仁紀實頻道" group-title="🇹🇼 台湾频道",視納華仁紀實頻道
+http://iptv.852851.xyz/l/0vKPjHf_oLTxFG9EdM6T-mikXnSOTQDzlH4W_U00j8J4Jop4ZQjU52WF_o2M9nmS/index.m3u8
+#EXTINF:-1 tvg-id="stream-853efd7d-b9fd-4acb-aab1-adcc3de44862" tvg-name="影迷數位紀實台" group-title="🇹🇼 台湾频道",影迷數位紀實台
+http://iptv.852851.xyz/l/rNwZqfaXkT76DkSQHNPSxRddPb4CxbT3-0g3tWVa4PgjZNF0utjivo_VhgSkhR49/index.m3u8
+#EXTINF:-1 tvg-id="stream-91f43695-354c-48fd-bdf3-ada8576b9c85" tvg-name="金光布袋戲" group-title="🇹🇼 台湾频道",金光布袋戲
+http://iptv.852851.xyz/l/NaK5WO2FcHE-jyJ5JGaU1ClnkdtQrXttg9XjerlEVzJY6ZV31Rxpg6cj2B3MOopN/index.m3u8
+#EXTINF:-1 tvg-id="stream-c5cc24a7-70bf-41d7-b48c-32acb8d80818" tvg-name="ROCK Action" group-title="🇹🇼 台湾频道",ROCK Action
+http://iptv.852851.xyz/l/FTTNb_Gcygl6fLDELr7BD9IoOCPh69ePswzDOW76w_UdxbSHy_CUyCtJ8x799P8u/index.m3u8
+#EXTINF:-1 tvg-id="stream-b9087fe5-644f-48b1-805a-153f25ca77ee" tvg-name="采昌影劇台" group-title="🇹🇼 台湾频道",采昌影劇台
+http://iptv.852851.xyz/l/-aHcJYrER7CqLqRdam0AQZZloz_OePF9OHHdZ5MD0kdhrisJo-am1L6FEpjNoXUD/index.m3u8
+#EXTINF:-1 tvg-id="stream-c1a30a4e-0045-42e3-834f-73789a9dcf03" tvg-name="靖天映畫" group-title="🇹🇼 台湾频道",靖天映畫
+http://iptv.852851.xyz/l/cUQAiAbIdZiTTjdc1zHckJwkW91xrZeI10VkUoTdW-cgf0Q1ak_FYU-lbnn8STB4/index.m3u8
+#EXTINF:-1 tvg-id="stream-53224953-cb5f-4f91-8735-78e8693cda77" tvg-name="靖天電影台" group-title="🇹🇼 台湾频道",靖天電影台
+http://iptv.852851.xyz/l/mlExZokBt09xSoK5Ju7LQbgRAu_xprHWkdDm5bZQd9cuZJM719wEXoK9oETu94Wn/index.m3u8
+#EXTINF:-1 tvg-id="stream-c3655fb2-cbe5-449f-b639-d92a4df0fc52" tvg-name="影迷數位電影台" group-title="🇹🇼 台湾频道",影迷數位電影台
+http://iptv.852851.xyz/l/S7ea6YtporOnYVyAQDusyaFKcSKmOl1AfU98XgdPU8VShDm6WdlM6Gl1_0GfefWO/index.m3u8
+#EXTINF:-1 tvg-id="stream-4064704c-21e1-41a3-8239-553983f2bee6" tvg-name="amc電影台" group-title="🇹🇼 台湾频道",amc電影台
+http://iptv.852851.xyz/l/Qav-nnfgDpbEaq1sjtzFwpaDSTOJatehmjJqYf3rqNm-IXS8fMQqIctnpdAN61Mz/index.m3u8
+#EXTINF:-1 tvg-id="stream-c777290f-2d67-404e-80a7-f806b937eb8c" tvg-name="CinemaWorld" group-title="🇹🇼 台湾频道",CinemaWorld
+http://iptv.852851.xyz/l/201fetZF97s-D_kSRjCbwEj3d2HLhnFh7o8Ng1j8pOss9Kpv84jr8aejbSgauVnD/index.m3u8
+#EXTINF:-1 tvg-id="stream-ebada3b4-8535-411e-b1f8-a807a079b7a3" tvg-name="My Cinema Europe HD 我的歐洲電影" group-title="🇹🇼 台湾频道",My Cinema Europe HD 我的歐洲電影
+http://iptv.852851.xyz/l/0VOwtYSctPImZOxPT8L4ssm5q-b38Bn73fThGKWz_odZLO94jbhfJjYRdI3jvlV4/index.m3u8
+#EXTINF:-1 tvg-id="stream-319daece-31ce-4963-9ec7-5de98b46c031" tvg-name="好消息" group-title="🇹🇼 台湾频道",好消息
+http://iptv.852851.xyz/l/N0Pd5-DPhfwT07fwTTgMwcI7pS0hbJCgPy7suSdiiSkBdnVIxX_4c8LHecOHiG2N/index.m3u8
+#EXTINF:-1 tvg-id="stream-52c14779-3c56-4a3e-9f82-f36880ab8317" tvg-name="好消息2台" group-title="🇹🇼 台湾频道",好消息2台
+http://iptv.852851.xyz/l/1axeGtu745DpiXUFqdse1vDqgQw6PpnaNaTB5yrWNj69zjGT6qPN2xs-ZVZICqes/index.m3u8
+#EXTINF:-1 tvg-id="stream-228deb05-ebe1-4148-a2fb-15db9eb859ae" tvg-name="大愛二台" group-title="🇹🇼 台湾频道",大愛二台
+http://iptv.852851.xyz/l/fkPo1mxSTuxp0DAILJo6yfFQFqJd2ORK7_v6b5BAE9byFh_OOsPIHxlFfUaVhLgu/index.m3u8
+#EXTINF:-1 tvg-id="stream-e0d4dfc3-44e0-40eb-a3bb-c17dea67b51a" tvg-name="人間衛視" group-title="🇹🇼 台湾频道",人間衛視
+http://iptv.852851.xyz/l/FxdizLWzMPjp6k74fu_etCm3Fw9l0FHPYoyq0sjac_0DHXSU-f5MHNKai56LboHR/index.m3u8
+#EXTINF:-1 tvg-id="stream-c481f209-53aa-49ac-8a4f-d93d3a76787e" tvg-name="NHK WORLD-JAPAN" group-title="🇹🇼 台湾频道",NHK WORLD-JAPAN
+http://iptv.852851.xyz/l/PeZ-6e7_ZTrrpjzTvP2li2GInhPwX1a8QpSsz6KzjX-Toxfs54jfmKEknAaclHKA/index.m3u8
+#EXTINF:-1 tvg-id="stream-1d34d99f-e7f7-41bf-8669-6ee82ab9cbb0" tvg-name="FRANCE24 英文台" group-title="🇹🇼 台湾频道",FRANCE24 英文台
+http://iptv.852851.xyz/l/KhMjmam78-CGg9Gf-Eb5JPjb3h5DI7c1U9L6l8iBmCCfRbCB7JB8ELwXQbremorb/index.m3u8
+#EXTINF:-1 tvg-id="stream-41890bcf-56b0-4fee-bf6e-9b55a3a9d271" tvg-name="半島國際新聞台" group-title="🇹🇼 台湾频道",半島國際新聞台
+http://iptv.852851.xyz/l/BXc9WEdnSG1uW42bCeFXPxPLrucqKbg3rghGRy2AVS6D6-F-Tux3uc9QBCCV3vPA/index.m3u8
+#EXTINF:-1 tvg-id="stream-f43e319d-6a2a-42a2-ad0e-5cd4774a97ff" tvg-name="CNBC Asia 財經台" group-title="🇹🇼 台湾频道",CNBC Asia 財經台
+http://iptv.852851.xyz/l/Y-tdWak1CTEO1NkmydoeMrJPatZAosR_s-f4ua1r-DCsYKkwV2r47nS0ZR3pi5lp/index.m3u8
+#EXTINF:-1 tvg-id="stream-cd0e5308-6d4d-4988-af22-8e15755c7b55" tvg-name="DW德國之聲" group-title="🇹🇼 台湾频道",DW德國之聲
+http://iptv.852851.xyz/l/snEWNowbU_MIY7A6HVeKAOesYCHUWBhz94X7fYQ5sNAUyvOAjbx-Xjhxp1dUdA33/index.m3u8
+#EXTINF:-1 tvg-id="stream-18a03233-5322-4d92-a17b-c0e712752083" tvg-name="國會頻道1" group-title="🇹🇼 台湾频道",國會頻道1
+http://iptv.852851.xyz/l/bp9E5pMMipEDkqF1qkb9Bbb6v7jXI1L4j1404omX_FZlge_hke0rDDy_bWfLJok_/index.m3u8
+#EXTINF:-1 tvg-id="stream-777609ae-1177-46a8-8b2b-1f05ce6ea8f7" tvg-name="國會頻道2" group-title="🇹🇼 台湾频道",國會頻道2
+http://iptv.852851.xyz/l/GwEaGUYZ23SAAqsr3S0GeNy-dLm5eYnYCUDx5XCKKOUnYc1zCTMfHEkFL_Sa2k-x/index.m3u8
+#EXTINF:-1 tvg-id="stream-02a973a8-278d-4b7a-bbc8-ca21bf125216" tvg-name="經典電影台" group-title="🇹🇼 台湾频道",經典電影台
+http://iptv.852851.xyz/l/WIXdv1p32-Hzal-O0y6srSFlfBOPO_CGdbDNPzHVsv7TQa5jKdTmX1kgA8QBazCS/index.m3u8
+#EXTINF:-1 tvg-id="stream-5f53fb30-4995-4e6d-872c-1d6cc521f0a0" tvg-name="經典卡通台" group-title="🇹🇼 台湾频道",經典卡通台
+http://iptv.852851.xyz/l/I80DYPoL11T8meBYoldmLyj58f9G0pfHE354M-JjDegkbMfN0JmoTfewbmFR0Kt9/index.m3u8
+#EXTINF:-1 tvg-id="stream-09e73918-b240-47b3-852b-e6bd4c117852" tvg-name="精選動漫台" group-title="🇹🇼 台湾频道",精選動漫台
+http://iptv.852851.xyz/l/LsQAQZF6bDQ_eOnb4Q5Ocn4TZM-inqS9_bnHsj-cMotlJsXT6iV5TsLcCBe-_EnQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-0c1e4867-41b2-4f78-af81-6a1859dd5300" tvg-name="TVBS歡樂台" group-title="🇹🇼 台湾频道",TVBS歡樂台
+http://iptv.852851.xyz/l/LrW0yHS9PLFmn8XnSunK1oecZpPhDY2GIQenN9srWQFstBsmSVRxgeh3PPUXlC_g/index.m3u8
+#EXTINF:-1 tvg-id="stream-b433a5f4-2fee-44bc-90f4-9e87400d9be9" tvg-name="ROCK Xstream搖滾極限頻道" group-title="🇹🇼 台湾频道",ROCK Xstream搖滾極限頻道
+http://iptv.852851.xyz/l/B8Jy5yBs6EFfm4HBZxyIszpL8wz7IVmEbqQgu_Ly9L_4UyCHLlBwC7e9PqG5Z6Ld/index.m3u8
+#EXTINF:-1 tvg-id="stream-6f283dfb-0b21-43ca-a2a8-5dfcdf10ece4" tvg-name="TVBS新聞" group-title="🇹🇼 台湾频道",TVBS新聞
+http://iptv.852851.xyz/l/Ez4PKVET-eHbqX5D7ed7zfcHysqaCVfLpnD7ko7UP71IEy5OTCbQ0yC2oaO7FIGj/index.m3u8
+#EXTINF:-1 tvg-id="stream-8195b37c-b2c9-4e64-92ed-1de2a1afa927" tvg-name="TVBS" group-title="🇹🇼 台湾频道",TVBS
+http://iptv.852851.xyz/l/1cYT6ir9Fwqk1C_IMMdT58Tcd0AzFqUf68e3luzvpFX8sYHXIbMrEU0bTX_B8nes/index.m3u8
+#EXTINF:-1 tvg-id="stream-e9049bd2-9649-477e-b8be-2f5e6e157421" tvg-name="ELTV生活英語台" group-title="🇹🇼 台湾频道",ELTV生活英語台
+http://iptv.852851.xyz/l/cN51BS4bNmzU2dTGp3jj1oMSBjh2Y5QTA45hJ3EHEelfym6SntM0Lt55XQpiK_bQ/index.m3u8
+#EXTINF:-1 tvg-id="stream-2928ceae-f9a9-4012-b689-2b5aade2c138" tvg-name="原住民族電視台" group-title="🇹🇼 台湾频道",原住民族電視台
+http://iptv.852851.xyz/l/bJGPeMNraRG1QotzCjDD-RN25u3glEOu9dWZvGqs53hzrSay9thdW-1YOaixwJ8H/index.m3u8
+#EXTINF:-1 tvg-id="stream-905fc52b-182c-44ae-9a2f-751aaceaf613" tvg-name="博斯高球台" group-title="🇹🇼 台湾频道",博斯高球台
+http://iptv.852851.xyz/l/S5AyRiWvXYz0NCh94qHUjoSjXntn99BDyZuk6eyFxXeQuintT6bfWzR7UOwjkE5V/index.m3u8
+#EXTINF:-1 tvg-id="stream-b3566695-ad66-4d6b-bd40-07dbc1b9f16c" tvg-name="博斯高球二台" group-title="🇹🇼 台湾频道",博斯高球二台
+http://iptv.852851.xyz/l/b1vo73tPaQr0jyVUqC0FeJViRTwFNd7esP-4r3qXE3JDciH0n7czLKfT4iCo7ZJM/index.m3u8
+#EXTINF:-1 tvg-id="stream-2a82fe65-3776-4bbb-b1ac-295cfd87178e" tvg-name="博斯運動一台" group-title="🇹🇼 台湾频道",博斯運動一台
+http://iptv.852851.xyz/l/uCeI6QVNuGahPbZW55k51ctMHeyqQPPEFrJD0HZexGP-EjJgN5y8TlcSmhtkFdmx/index.m3u8
+#EXTINF:-1 tvg-id="stream-9532042f-df9a-42c8-b18e-d2455b3504cc" tvg-name="博斯無限台" group-title="🇹🇼 台湾频道",博斯無限台
+http://iptv.852851.xyz/l/kaLIvahT0gRWfsZay_WNte9sV6xAmipDuNeR8rySnabWNOyBDhTxBiJj3uCE7FKY/index.m3u8
+#EXTINF:-1 tvg-id="stream-4d7094d9-5b74-4df0-a59a-4030e1efd643" tvg-name="博斯網球台" group-title="🇹🇼 台湾频道",博斯網球台
+http://iptv.852851.xyz/l/f4Q2i0EbnJdOXsNZb28pYAug4nNwiVWAUif5WvVFRxxO3TNz5QlDveijblXvt5HB/index.m3u8
+#EXTINF:-1 tvg-id="stream-9b973a0b-dfcf-44ed-911f-24bdec73ac20" tvg-name="博斯運動二台" group-title="🇹🇼 台湾频道",博斯運動二台
+http://iptv.852851.xyz/l/rmSfmcv0Pt8Z7Idq5XyXKOKTqGk2URDTRpj-XPjlpIn7Dsipeai_qkv9DhR0eMse/index.m3u8
+#EXTINF:-1 tvg-id="stream-2f753388-4373-4c70-b690-01fc65c2bb95" tvg-name="博斯魅力台" group-title="🇹🇼 台湾频道",博斯魅力台
+http://iptv.852851.xyz/l/0emj8uuweMjTKiyDicBxSMMxOVaoacAdVyuqUR1_UZPTm5xEAK7iovvPKJ9TqCJ_/index.m3u8
+#EXTINF:-1 tvg-id="stream-e11a10fc-04a6-4134-9b1f-4d982d999505" tvg-name="博斯無限二台" group-title="🇹🇼 台湾频道",博斯無限二台
+http://iptv.852851.xyz/l/808cn9ZKBy9M-wtMZEOVdirb_K0nVBzbA_lgG-LyZHzN-AcqyES_47RXwrr2qV6O/index.m3u8
+#EXTINF:-1 tvg-id="stream-b03fb214-4d94-4480-85c2-9130e04ded47" tvg-name="幸福空間居家台" group-title="🇹🇼 台湾频道",幸福空間居家台
+http://iptv.852851.xyz/l/2QdyYlb1XAzH34T4ZPiiYox4FX5wOXKXFjt39H17zGWV0IDBKCElm1C329M_AaUf/index.m3u8
+#EXTINF:-1 tvg-id="stream-2cb91722-24ba-4c1a-9da4-eea91ddc7f45" tvg-name="getwin sport運動台" group-title="🇹🇼 台湾频道",getwin sport運動台
+http://iptv.852851.xyz/l/geduX2Ii5GmluSs1ZS1D1M4GFw-J8dVVoTC8ealyyq2ktfW6N0ew3M7RdoPBkuyb/index.m3u8
+#EXTINF:-1 tvg-id="stream-8458d4e5-a308-4b92-bd64-66d5e4195476" tvg-name="ABC Australia 澳洲公廣頻道" group-title="🇹🇼 台湾频道",ABC Australia 澳洲公廣頻道
+http://iptv.852851.xyz/l/1I6Fo7uTHAU2_Rbq7lnKHPYz_iveY_Xd228Ak_HzHrqguJZxu-M4efAtVRp4EucZ/index.m3u8
+#EXTINF:-1 tvg-id="stream-888b7dda-dd14-46ab-8720-628a6c9a48d3" tvg-name="OUTtv" group-title="🇹🇼 台湾频道",OUTtv
+http://iptv.852851.xyz/l/S4oXo0bxbAi0_5uZ-rqa3u-AarPGhdxumH_VV21rthlbzESvFgWZh1opO8Ljx2Xj/index.m3u8
+#EXTINF:-1 tvg-id="stream-aa8667e5-ec44-449a-bfa2-52034ad2b896" tvg-name="wedotv Movies" group-title="🇹🇼 台湾频道",wedotv Movies
+http://iptv.852851.xyz/l/0oyzdwe7i-Rqtc_0Po8pSepQEfvHy166pULKb0ovkTo1-QPgOmFvB0JsdHfTS4pn/index.m3u8
+#EXTINF:-1 tvg-id="stream-73910d26-2b8e-43f8-bd9e-2e4f25e724c6" tvg-name="寰宇財經台" group-title="🇹🇼 台湾频道",寰宇財經台
+http://iptv.852851.xyz/l/CGzRZO8D40yWMflbgu6a-tpQc7T5zOJf9Kdn3ASmF_hQOIxJrrKw3vdxzbeWg0d8/index.m3u8
+#EXTINF:-1 tvg-id="stream-7eb7960f-5a73-482b-8303-f4058e859a56" tvg-name="MagellanTV頻道 (麥哲倫頻道)" group-title="🇹🇼 台湾频道",MagellanTV頻道 (麥哲倫頻道)
+http://iptv.852851.xyz/l/e5cTdmlXMixCo_nS-c0zzkGbEBKz0rYuS5gb7-v_4Pq5yY3sfE_ntY1-AKFWILYi/index.m3u8
 #EXTINF:-1 group-title="极速港台" tvg-name="翡翠台4K(字幕)" tvg-logo="https://epg.112114.xyz/logo/翡翠台4K(字幕).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",翡翠台4K(字幕)
 https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 group-title="极速港台" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
